@@ -1,0 +1,5964 @@
+.main-sidebar-body .nav-sub {
+	margin-left: 0.6rem;
+	cursor: pointer;
+}
+
+.nav-sub-item .events-title {
+	background-color: #1c4c7a;
+	color: #f7f7f7;
+	display: block;
+	font-size: 0.8rem;
+	padding: 4px;
+	text-transform: uppercase;
+}
+
+.nav-sub-item .participant {
+	background-color: #fff;
+	color: #1c4c7a;
+	display: block;
+	font-size: 0.75rem;
+	padding: 2px 4px;
+	text-transform: capitalize;
+}
+
+.nav-sub-item .info {
+	background-color: #fff;
+	color: #1c4c7a;
+	display: block;
+	font-size: 0.7rem;
+	font-weight: 700;
+	padding: 2px 4px;
+	text-transform: capitalize;
+}
+
+.sidebar {
+	width: 380px;
+}
+
+/* BetSlip */
+
+.betSlip {
+	padding: 0px;
+}
+
+.betSlip h4 {
+	color: #000;
+	background: #b3cde0;
+	border-top: 1px solid #fff;
+	font-size: 0.9rem;
+	font-weight:bold;
+	padding: 6px 8px;
+	display: block;
+	height: 26px;
+	line-height: 16px;
+	margin-top: 0.5rem;
+}
+
+.betSlip .nav-link.active {
+	background-color: #042a51 !important;
+	color: #fff;
+}
+
+.betSlip .bet-box {
+	background: #fff;
+	color: #103f7b;
+	border-left: 2px solid #0a5489;
+	position: relative;
+	padding: .3rem;
+}
+
+.betSlip .bet-box p {
+	display: block;
+}
+
+.betSlip .bet-amounts {
+	background: #03396c;
+	color: #fff;
+	border-left: 2px solid #0a5489;
+	position: relative;
+	padding: .3rem;
+	margin-top: 10px;
+}
+
+.betSlip .bet-amounts p {
+	display: block;
+	border-bottom: 1px dashed #6497b1;
+}
+
+.betSlip .bet-amounts p span {
+	float: right;
+}
+
+.betSlip .openb-box {
+	background: #f4f4fd;
+	border-left: 2px solid #0a5489;
+	color: #103f7b;
+	font-size: 0.75rem;
+	position: relative;
+	padding: .3rem;
+}
+
+.betSlip .openb-box li {
+	display: block;
+}
+
+.betSlip .openb-box .ticket-number {
+	color: #000;
+	background: #e0ebf2;
+	border-top: 1px solid #fff;
+	font-size: 0.8rem;
+	font-weight: bold;
+	padding: 10px 8px;
+	line-height: 16px;
+	margin-top: 0.5rem;
+}
+
+/* Sports Icons */
+
+.cIcons {
+    display: inline-block;
+    line-height: 35px!important;
+    margin-right: 8px;
+	vertical-align: middle;
+	
+	
+}
+
+/***************** SPORTS ICONS *****************/
+
+.icon-sports-BADMINTON {
+    background: url('../img/Sports-Icons.png') no-repeat -1px 0;
+    width: 18px;
+    height: 16px;
+  }
+  
+  .icon-sports-BANDY {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -17px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-BASEBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -36px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-BASKETBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -55px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-BEACH-VOLLEYBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -74px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-BOXING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -93px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-CHESS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -112px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-CRICKET {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -131px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-CURLING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -150px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-DARTS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -169px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-DARTS-LEGS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -188px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-E-SPORTS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -207px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-FIELD-HOCKEY {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -226px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-FLOORBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -241px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-FOOTBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -260px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-FUTSAL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -279px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-GOLF {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -298px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-HANDBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -317px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-HOCKEY {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -336px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-HORSE-RACING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -355px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-LACROSSE {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -374px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-MMA,
+  .icon-sports-FIGHTING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -393px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-OTHER {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -412px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-POLITICS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -431px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-RINK-HOCKEY {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -450px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-RUGBY {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -450px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-RUGBY-UNION {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -469px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-SNOOKER {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -488px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-SOCCER {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -507px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-SQUASH {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -526px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-TABLE-TENNIS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -545px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-TENNIS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -564px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-VOLLEYBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -583px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-WATER-POLO {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -602px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-PADEL-TENNIS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -621px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-AUSSIE-RULES-FOOTBALL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -640px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-CYCLING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -659px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-CASINO {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -678px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-POOL {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -697px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-BOWLING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -716px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-SURFING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -735px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-WINTER-SPORTS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -754px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-MAGIC-THE-GATHERING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -773px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-SAILING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -792px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-ROWING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -811px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-ENTERTAINMENT {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -830px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-FORMULA-ONE {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -849px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-OLYMPICS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -868px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-ATHLETICS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -887px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-MOTOR-RACING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -906px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-MOTOR-SPORT {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -925px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-ESPORTS,
+  .icon-sports-SPORTS-SIMS {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -943px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-SWIMMING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -961px;
+    width: 18px;
+    height: 15px;
+  }
+  
+  .icon-sports-WORLD {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -977px;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-sports-CLOCK {
+    background: url('../img/Sports-Icons.png') no-repeat 0 -996px;
+    width: 19px;
+    height: 19px;
+  }
+  
+  .icon-sports-NY-LOTTO {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -1016px;
+    width: 18px;
+    height: 19px;
+  }
+  
+  .icon-sports-LIVE-DEALER {
+    background: url('../img/Sports-Icons.png') no-repeat 0 -1036px;
+    width: 19px;
+    height: 18px;
+  }
+  
+  .icon-sports-LIVE-BETTING,
+  .icon-sports-IN-HOUSE-LIVE-BETTING {
+    background: url('../img/Sports-Icons.png') no-repeat -1px -1055px;
+    width: 17px;
+    height: 16px;
+  }
+
+  /* Sports Icons */
+
+i.liveDearlerLine {
+	background: url('../img/website-icons.png') no-repeat -4px -5px;
+	width: 24px;
+	height: 32px;
+}
+
+i.casinoLine {
+	background: url('../img/website-icons.png') no-repeat -3px -48px;
+	width: 27px;
+	height: 28px;
+}
+
+i.raffleLine {
+	background: url('../img/website-icons.png') no-repeat -3px -86px;
+	width: 26px;
+	height: 25px;
+}
+
+i.rouletteLine {
+	background: url('../img/website-icons.png') no-repeat -3px -122px;
+	width: 26px;
+	height: 27px;
+}
+
+.casinoChipsLine {
+	background: url('../img/website-icons.png') no-repeat -2px -198px;
+	width: 27px;
+	height: 27px;
+}
+
+i.casinoSpadeLine {
+	background: url('../img/website-icons.png') no-repeat -3px -235px;
+	width: 26px;
+	height: 27px;
+}
+
+i.casinoSlotsLine {
+	background: url('../img/website-icons.png') no-repeat -3px -272px;
+	width: 26px;
+	height: 16px;
+}
+
+i.casinoChipsLine2 {
+	background: url('../img/website-icons.png') no-repeat -2px -298px;
+	width: 27px;
+	height: 27px;
+}
+
+i.gamepadLine {
+	background: url('../img/website-icons.png') no-repeat -2px -334px;
+	width: 27px;
+	height: 20px;
+}
+
+i.cameraLine {
+	background: url('../img/website-icons.png') no-repeat -3px -364px;
+	width: 26px;
+	height: 20px;
+}
+
+i.headsetLine {
+	background: url('../img/website-icons.png') no-repeat -3px -394px;
+	width: 26px;
+	height: 24px;
+}
+
+i.barScannerLine {
+	background: url('../img/website-icons.png') no-repeat -3px -428px;
+	width: 26px;
+	height: 29px;
+}
+
+i.hotLine {
+	background: url('../img/website-icons.png') no-repeat -3px -466px;
+	width: 27px;
+	height: 29px;
+}
+
+i.lighningLine {
+	background: url('../img/website-icons.png') no-repeat -3px -466px;
+	width: 27px;
+	height: 29px;
+}
+
+i.radioactiveline {
+	background: url('../img/website-icons.png') no-repeat -2px -549px;
+	width: 27px;
+	height: 27px;
+}
+
+i.weatherLine {
+	background: url('../img/website-icons.png') no-repeat -3px -585px;
+	width: 27px;
+	height: 19px;
+}
+
+i.wifiLine {
+	background: url('../img/website-icons.png') no-repeat -2px -613px;
+	width: 27px;
+	height: 17px;
+}
+
+i.mobileLine {
+	background: url('../img/website-icons.png') no-repeat -5px -640px;
+	width: 21px;
+	height: 35px;
+}
+
+i.satelliteLine {
+	background: url('../img/website-icons.png') no-repeat -2px -684px;
+	width: 27px;
+	height: 27px;
+}
+
+i.chatLine {
+	background: url('../img/website-icons.png') no-repeat -2px -721px;
+	width: 27px;
+	height: 25px;
+}
+
+i.cogsLine {
+	background: url('../img/website-icons.png') no-repeat -4px -755px;
+	width: 24px;
+	height: 24px;
+}
+
+i.newsLine {
+	background: url('../img/website-icons.png') no-repeat -4px -790px;
+	width: 23px;
+	height: 28px;
+}
+
+i.wifiLine2 {
+	background: url('../img/website-icons.png') no-repeat -2px -827px;
+	width: 28px;
+	height: 27px;
+}
+
+i.checkLine {
+	background: url('../img/website-icons.png') no-repeat -2px -863px;
+	width: 28px;
+	height: 27px;
+}
+
+i.closeLine {
+	background: url('../img/website-icons.png') no-repeat -2px -900px;
+	width: 28px;
+	height: 27px;
+}
+
+i.specialLine {
+	background: url('../img/website-icons.png') no-repeat -2px -937px;
+	width: 28px;
+	height: 27px;
+}
+
+i.clockLine1 {
+	background: url('../img/website-icons.png') no-repeat -2px -974px;
+	width: 28px;
+	height: 27px;
+}
+
+i.wifiLine3 {
+	background: url('../img/website-icons.png') no-repeat -2px -1011px;
+	width: 27px;
+	height: 21px;
+}
+
+i.calcLine {
+	background: url('../img/website-icons.png') no-repeat -4px -1041px;
+	width: 23px;
+	height: 29px;
+}
+
+i.ccLine {
+	background: url('../img/website-icons.png') no-repeat -2px -1080px;
+	width: 27px;
+	height: 19px;
+}
+
+i.clockLine2 {
+	background: url('../img/website-icons.png') no-repeat -2px -1108px;
+	width: 28px;
+	height: 27px;
+}
+
+i.walletLine {
+	background: url('../img/website-icons.png') no-repeat -2px -1144px;
+	width: 27px;
+	height: 21px;
+}
+
+i.safeLine {
+	background: url('../img/website-icons.png') no-repeat -3px -1174px;
+	width: 26px;
+	height: 23px;
+}
+
+i.currencyLine {
+	background: url('../img/website-icons.png') no-repeat -3px -1174px;
+	width: 26px;
+	height: 23px;
+}
+
+i.currencyLine1 {
+	background: url('../img/website-icons.png') no-repeat -2px -1232px;
+	width: 28px;
+	height: 24px;
+}
+
+i.clock24Line {
+	background: url('../img/website-icons.png') no-repeat -3px -1265px;
+	width: 26px;
+	height: 26px;
+}
+
+i.barcodeLine {
+	background: url('../img/website-icons.png') no-repeat -3px -1265px;
+	width: 26px;
+	height: 26px;
+}
+
+i.currencyLine2 {
+	background: url('../img/website-icons.png') no-repeat -3px -1265px;
+	width: 26px;
+	height: 26px;
+}
+
+i.lockLine1 {
+	background: url('../img/website-icons.png') no-repeat -2px -1359px;
+	width: 27px;
+	height: 35px;
+}
+
+i.tvLine {
+	background: url('../img/website-icons.png') no-repeat -3px -1404px;
+	width: 26px;
+	height: 24px;
+}
+
+i.powerLine {
+	background: url('../img/website-icons.png') no-repeat -3px -1437px;
+	width: 26px;
+	height: 27px;
+}
+
+i.robotLine {
+	background: url('../img/website-icons.png') no-repeat -2px -1474px;
+	width: 27px;
+	height: 30px;
+}
+
+i.eyeglassLine {
+	background: url('../img/website-icons.png') no-repeat -3px -1513px;
+	width: 26px;
+	height: 27px;
+}
+
+i.trashLine {
+	background: url('../img/website-icons.png') no-repeat -2px -1549px;
+	width: 27px;
+	height: 34px;
+}
+
+i.bitcoinLine {
+	background: url('../img/website-icons.png') no-repeat -2px -1592px;
+	width: 27px;
+	height: 27px;
+}
+
+i.bitcoinLine2 {
+	background: url('../img/website-icons.png') no-repeat -3px -1629px;
+	width: 26px;
+	height: 29px;
+}
+
+i.gamepadLine2 {
+	background: url('../img/website-icons.png') no-repeat -3px -1668px;
+	width: 27px;
+	height: 24px;
+}
+
+i.cameraLine2 {
+	background: url('../img/website-icons.png') no-repeat -3px -1701px;
+	width: 27px;
+	height: 21px;
+}
+
+i.ticketLine {
+	background: url('../img/website-icons.png') no-repeat -3px -1732px;
+	width: 26px;
+	height: 15px;
+}
+
+i.casinoCards {
+	background: url('../img/website-icons.png') no-repeat -3px -1756px;
+	width: 26px;
+	height: 26px;
+}
+
+i.chess {
+	background: url('../img/website-icons.png') no-repeat -3px -1792px;
+	width: 26px;
+	height: 27px;
+}
+
+i.casinoChips {
+	background: url('../img/website-icons.png') no-repeat -2px -1828px;
+	width: 27px;
+	height: 25px;
+}
+
+i.casinoDice {
+	background: url('../img/website-icons.png') no-repeat -3px -1863px;
+	width: 26px;
+	height: 22px;
+}
+
+i.darts,
+i.DARTS {
+	background: url('../img/website-icons.png') no-repeat -3px -1894px;
+	width: 26px;
+	height: 25px;
+}
+
+i.tableTennis,
+i.TABLETENNIS {
+	background: url('../img/website-icons.png') no-repeat -3px -1928px;
+	width: 27px;
+	height: 26px;
+}
+
+i.snooker,
+i.SNOOKER {
+	background: url('../img/website-icons.png') no-repeat -3px -1963px;
+	width: 27px;
+	height: 26px;
+}
+
+i.backgammon,
+i.BACKGAMMON {
+	background: url('../img/website-icons.png') no-repeat -3px -1999px;
+	width: 26px;
+	height: 23px;
+}
+
+i.football,
+i.FOOTBALL,
+i.NFL {
+	background: url('../img/website-icons.png') no-repeat -2px -2032px;
+	width: 27px;
+	height: 26px;
+}
+
+i.basketball,
+i.BASKETBALL,
+i.NBA {
+	background: url('../img/website-icons.png') no-repeat -3px -2068px;
+	width: 26px;
+	height: 27px;
+}
+
+i.baseball,
+i.BASEBALL,
+i.MLB {
+	background: url('../img/website-icons.png') no-repeat -3px -2104px;
+	width: 26px;
+	height: 26px;
+}
+
+i.hockey,
+i.HOCKEY,
+i.NHL {
+	background: url('../img/website-icons.png') no-repeat -2px -2142px;
+	width: 28px;
+	height: 27px;
+}
+
+i.tennis,
+i.TENNIS {
+	background: url('../img/website-icons.png') no-repeat -2px -2179px;
+	width: 27px;
+	height: 27px;
+}
+
+i.volleyball,
+i.VOLLEYBALL {
+	background: url('../img/website-icons.png') no-repeat -3px -2216px;
+	width: 26px;
+	height: 26px;
+}
+
+i.soccer,
+i.SOCCER {
+	background: url('../img/website-icons.png') no-repeat -3px -2252px;
+	width: 26px;
+	height: 27px;
+}
+
+i.badminton,
+i.BADMINTON {
+	background: url('../img/website-icons.png') no-repeat -2px -2288px;
+	width: 27px;
+	height: 28px;
+}
+
+i.bowling,
+i.BOWLING {
+	background: url('../img/website-icons.png') no-repeat -3px -2325px;
+	width: 26px;
+	height: 27px;
+}
+
+i.cricket,
+i.CRICKET {
+	background: url('../img/website-icons.png') no-repeat -2px -2361px;
+	width: 27px;
+	height: 27px;
+}
+
+i.curling,
+i.CURLING {
+	background: url('../img/website-icons.png') no-repeat -2px -2397px;
+	width: 27px;
+	height: 26px;
+}
+
+i.golf,
+i.GOLF {
+	background: url('../img/website-icons.png') no-repeat -2px -2433px;
+	width: 27px;
+	height: 27px;
+}
+
+i.eightball,
+i.EIGHTBALL {
+	background: url('../img/website-icons.png') no-repeat -3px -2469px;
+	width: 26px;
+	height: 27px;
+}
+
+i.pasapalo,
+i.PASAPALO {
+	background: url('../img/website-icons.png') no-repeat -2px -2505px;
+	width: 27px;
+	height: 27px;
+}
+
+i.cronometer,
+i.CRONOMETER {
+	background: url('../img/website-icons.png') no-repeat -3px -2542px;
+	width: 26px;
+	height: 31px;
+}
+
+i.roulette,
+i.ROULETTE {
+	background: url('../img/website-icons.png') no-repeat -2px -2583px;
+	width: 27px;
+	height: 26px;
+}
+
+i.casinoCards2 {
+	background: url('../img/website-icons.png') no-repeat -3px -2618px;
+	width: 26px;
+	height: 23px;
+}
+
+i.cardsTable {
+	background: url('../img/website-icons.png') no-repeat -2px -2650px;
+	width: 28px;
+	height: 15px;
+}
+
+i.slots {
+	background: url('../img/website-icons.png') no-repeat -3px -2675px;
+	width: 26px;
+	height: 19px;
+}
+
+i.money {
+	background: url('../img/website-icons.png') no-repeat -3px -2704px;
+	width: 26px;
+	height: 12px;
+}
+
+i.liveDearler {
+	background: url('../img/website-icons.png') no-repeat -4px -2726px;
+	width: 23px;
+	height: 32px;
+}
+
+i.horses {
+	background: url('../img/website-icons.png') no-repeat -3px -2768px;
+	width: 26px;
+	height: 21px;
+}
+
+i.gamepad,
+i.sportssims,
+i.SPORTSSIMS {
+	background: url('../img/website-icons.png') no-repeat -3px -2797px;
+	width: 26px;
+	height: 19px;
+}
+
+i.gamepad2 {
+	background: url('../img/website-icons.png') no-repeat -2px -2826px;
+	width: 28px;
+	height: 19px;
+}
+
+i.nextHour,
+i.liveBetting,
+i.inhouselivebetting {
+	background: url('../img/website-icons.png') no-repeat -3px -2855px;
+	width: 26px;
+	height: 24px;
+}
+
+i.archery,
+i.ARCHERY {
+	background: url('../img/website-icons.png') no-repeat -4px -2888px;
+	width: 24px;
+	height: 32px;
+}
+
+i.aussierules,
+i.AUSSIERULES {
+	background: url('../img/website-icons.png') no-repeat -3px -2930px;
+	width: 27px;
+	height: 25px;
+}
+
+i.bandy,
+i.BANDY {
+	background: url('../img/website-icons.png') no-repeat -2px -3000px;
+	width: 28px;
+	height: 28px;
+}
+
+i.waterpolo,
+i.WATERPOLO {
+	background: url('../img/website-icons.png') no-repeat -2px -3145px;
+	width: 27px;
+	height: 26px;
+}
+
+i.boxing,
+i.BOXING,
+i.fighting {
+	background: url('../img/website-icons.png') no-repeat -3px -3218px;
+	width: 26px;
+	height: 30px;
+}
+
+i.chess2 {
+	background: url('../img/website-icons.png') no-repeat -3px -3257px;
+	width: 26px;
+	height: 19px;
+}
+
+i.cricket2 {
+	background: url('../img/website-icons.png') no-repeat -2px -3286px;
+	width: 27px;
+	height: 27px;
+}
+
+i.cyclism,
+i.CYCLISM {
+	background: url('../img/website-icons.png') no-repeat -3px -3358px;
+	width: 26px;
+	height: 16px;
+}
+
+i.darts2 {
+	background: url('../img/website-icons.png') no-repeat -3px -3383px;
+	width: 26px;
+	height: 27px;
+}
+
+i.diving,
+i.DIVING {
+	background: url('../img/website-icons.png') no-repeat -2px -3419px;
+	width: 27px;
+	height: 26px;
+}
+
+i.esport,
+i.ESPORTS {
+	background: url('../img/website-icons.png') no-repeat -3px -3455px;
+	width: 27px;
+	height: 27px;
+}
+
+i.horses2 {
+	background: url('../img/website-icons.png') no-repeat -4px -3493px;
+	width: 25px;
+	height: 24px;
+}
+
+i.star {
+	background: url('../img/website-icons.png') no-repeat -2px -3526px;
+	width: 27px;
+	height: 26px;
+}
+
+i.fencing,
+i.FENCING {
+	background: url('../img/website-icons.png') no-repeat -3px -3562px;
+	width: 26px;
+	height: 17px;
+}
+
+i.floorball,
+i.FLOORBALL {
+	background: url('../img/website-icons.png') no-repeat -2px -3589px;
+	width: 27px;
+	height: 26px;
+}
+
+i.football2 {
+	background: url('../img/website-icons.png') no-repeat -3px -3625px;
+	width: 26px;
+	height: 26px;
+}
+
+i.futsal,
+i.FUTSAL {
+	background: url('../img/website-icons.png') no-repeat -3px -3661px;
+	width: 26px;
+	height: 15px;
+}
+
+i.gaelichurling {
+	background: url('../img/website-icons.png') no-repeat -3px -3685px;
+	width: 26px;
+	height: 26px;
+}
+
+i.golf2 {
+	background: url('../img/website-icons.png') no-repeat -2px -3721px;
+	width: 27px;
+	height: 27px;
+}
+
+i.handball,
+i.HANDBALL {
+	background: url('../img/website-icons.png') no-repeat -2px -3757px;
+	width: 27px;
+	height: 27px;
+}
+
+i.horseracing,
+i.HORSERACING {
+	background: url('../img/website-icons.png') no-repeat -3px -3793px;
+	width: 27px;
+	height: 17px;
+}
+
+i.hurling,
+i.HURLING {
+	background: url('../img/website-icons.png') no-repeat -3px -3818px;
+	width: 24px;
+	height: 32px;
+}
+
+i.judo,
+i.JUDO {
+	background: url('../img/website-icons.png') no-repeat -3px -3860px;
+	width: 26px;
+	height: 23px;
+}
+
+i.kayak,
+i.KAYAK {
+	background: url('../img/website-icons.png') no-repeat -3px -3892px;
+	width: 26px;
+	height: 26px;
+}
+
+i.mma,
+i.MMA {
+	background: url('../img/website-icons.png') no-repeat -2px -3926px;
+	width: 27px;
+	height: 34px;
+}
+
+i.motorracing,
+i.MOTORRACING {
+	background: url('../img/website-icons.png') no-repeat -2px -3970px;
+	width: 28px;
+	height: 25px;
+}
+
+i.netball,
+i.NETBALL {
+	background: url('../img/website-icons.png') no-repeat -2px -4005px;
+	width: 27px;
+	height: 26px;
+}
+
+i.olympic,
+i.OLYMPIC {
+	background: url('../img/website-icons.png') no-repeat -4px -4036px;
+	width: 23px;
+	height: 36px;
+}
+
+i.trophy,
+i.TROPHY {
+	background: url('../img/website-icons.png') no-repeat -5px -4082px;
+	width: 22px;
+	height: 27px;
+}
+
+i.pesapallo {
+	background: url('../img/website-icons.png') no-repeat -2px -4118px;
+	width: 27px;
+	height: 27px;
+}
+
+i.casinoSpade {
+	background: url('../img/website-icons.png') no-repeat -4px -4154px;
+	width: 24px;
+	height: 28px;
+}
+
+i.rowing,
+i.ROWING {
+	background: url('../img/website-icons.png') no-repeat -3px -4192px;
+	width: 26px;
+	height: 13px;
+}
+
+i.rugby-league,
+i.RUGBY,
+i.RUGBY-LEAGUE {
+	background: url('../img/website-icons.png') no-repeat -3px -4214px;
+	width: 26px;
+	height: 19px;
+}
+
+i.rugby-union,
+i.RUGBYUNION {
+	background: url('../img/website-icons.png') no-repeat -2px -4241px;
+	width: 27px;
+	height: 19px;
+}
+
+i.sailing,
+i.SAILING {
+	background: url('../img/website-icons.png') no-repeat -3px -4270px;
+	width: 26px;
+	height: 27px;
+}
+
+i.snooker2 {
+	background: url('../img/website-icons.png') no-repeat -3px -4307px;
+	width: 27px;
+	height: 19px;
+}
+
+i.soccer2 {
+	background: url('../img/website-icons.png') no-repeat -2px -4335px;
+	width: 27px;
+	height: 27px;
+}
+
+i.special {
+	background: url('../img/website-icons.png') no-repeat -2px -4372px;
+	width: 28px;
+	height: 26px;
+}
+
+i.motocross,
+i.MOTOCROSS {
+	background: url('../img/website-icons.png') no-repeat -3px -4407px;
+	width: 26px;
+	height: 25px;
+}
+
+i.triathlon,
+i.TRIATHLON {
+	background: url('../img/website-icons.png') no-repeat -2px -4513px;
+	width: 27px;
+	height: 26px;
+}
+
+i.waterpolo,
+i.WATERPOLO {
+	background: url('../img/website-icons.png') no-repeat -3px -4585px;
+	width: 26px;
+	height: 27px;
+}
+
+i.weightlifting,
+i.WEIGHTLIFTING {
+	background: url('../img/website-icons.png') no-repeat -3px -4621px;
+	width: 26px;
+	height: 26px;
+}
+
+i.wintersports,
+i.WINTERSPORTS,
+i.WINTEROLYMPICS {
+	background: url('../img/website-icons.png') no-repeat -2px -4656px;
+	width: 28px;
+	height: 25px;
+}
+
+i.wrestling,
+i.WRESTLING {
+	background: url('../img/website-icons.png') no-repeat -3px -4691px;
+	width: 26px;
+	height: 29px;
+}
+
+i.lacrosse,
+i.LACROSSE {
+	background: url('../img/website-icons.png') no-repeat -3px -4728px;
+	width: 26px;
+	height: 22px;
+}
+
+i.nylotto,
+i.NYLOTTO,
+i.lottery {
+	background: url('../img/website-icons.png') no-repeat -3px -4760px;
+	width: 26px;
+	height: 30px;
+}
+
+i.ticket {
+	background: url('../img/website-icons.png') no-repeat -3px -4799px;
+	width: 26px;
+	height: 19px;
+}
+
+i.tv {
+	background: url('../img/website-icons.png') no-repeat -2px -4827px;
+	width: 28px;
+	height: 31px;
+}
+
+i.entertainment {
+	background: url('../img/website-icons.png') no-repeat -2px -4915px;
+	width: 27px;
+	height: 25px;
+}
+
+i.horseRacing2 {
+	background: url('../img/website-icons.png') no-repeat -3px -4949px;
+	width: 25px;
+	height: 18px;
+}
+
+i.live-on-sm,
+i.inProgress {
+	background: url('../img/website-icons.png') no-repeat -3px -4977px;
+	width: 26px;
+	height: 11px;
+}
+
+i.live-off-sm {
+	background: url('../img/website-icons.png') no-repeat -3px -4998px;
+	width: 26px;
+	height: 11px;
+}
+
+i.cancelled {
+	background: url('../img/website-icons.png') no-repeat -3px -5017px;
+	width: 26px;
+	height: 11px;
+}
+
+/* Small Icons */
+
+.cIcons-sm {
+    display: inline-block;
+    line-height: 0.7;
+    margin-right: 4px;
+	vertical-align: middle;
+}
+
+i.liveDearlerLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -4px;
+	width: 19px;
+	height: 26px;
+}
+
+i.casinoLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -38px;
+	width: 21px;
+	height: 21px;
+}
+
+i.raffleLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -67px;
+	width: 21px;
+	height: 20px;
+}
+
+i.rouletteLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -95px;
+	width: 21px;
+	height: 21px;
+}
+
+.casinoChipsLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -154px;
+	width: 21px;
+	height: 22px;
+}
+
+i.casinoSpadeLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -184px;
+	width: 21px;
+	height: 21px;
+}
+
+i.casinoSlotsLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -212px;
+	width: 21px;
+	height: 13px;
+}
+
+i.casinoChipsLine2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -232px;
+	width: 21px;
+	height: 21px;
+}
+
+i.gamepadLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -261px;
+	width: 21px;
+	height: 16px;
+}
+
+i.cameraLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -284px;
+	width: 21px;
+	height: 16px;
+}
+
+i.headsetLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -307px;
+	width: 21px;
+	height: 19px;
+}
+
+i.barScannerLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -334px;
+	width: 21px;
+	height: 23px;
+}
+
+i.hotLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -363px;
+	width: 21px;
+	height: 23px;
+}
+
+i.lighningLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -393px;
+	width: 21px;
+	height: 27px;
+}
+
+i.radioactiveline-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -428px;
+	width: 21px;
+	height: 21px;
+}
+
+i.weatherLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -456px;
+	width: 21px;
+	height: 15px;
+}
+
+i.wifiLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -477px;
+	width: 21px;
+	height: 15px;
+}
+
+i.mobileLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -3px -499px;
+	width: 17px;
+	height: 27px;
+}
+
+i.satelliteLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -533px;
+	width: 21px;
+	height: 21px;
+}
+
+i.chatLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -562px;
+	width: 21px;
+	height: 20px;
+}
+
+i.cogsLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -589px;
+	width: 19px;
+	height: 19px;
+}
+
+i.newsLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -615px;
+	width: 19px;
+	height: 22px;
+}
+
+i.wifiLine2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -644px;
+	width: 21px;
+	height: 22px;
+}
+
+i.checkLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -672px;
+	width: 21px;
+	height: 22px;
+}
+
+i.closeLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -701px;
+	width: 21px;
+	height: 22px;
+}
+
+i.specialLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -730px;
+	width: 21px;
+	height: 21px;
+}
+
+i.clockLine1-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -759px;
+	width: 21px;
+	height: 21px;
+}
+
+i.wifiLine3-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -787px;
+	width: 21px;
+	height: 17px;
+}
+
+i.calcLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -811px;
+	width: 19px;
+	height: 23px;
+}
+
+i.ccLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -841px;
+	width: 21px;
+	height: 15px;
+}
+
+i.clockLine2-sm,
+i.notStarted {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -863px;
+	width: 21px;
+	height: 21px;
+}
+
+i.walletLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -892px;
+	width: 21px;
+	height: 16px;
+}
+
+i.safeLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -914px;
+	width: 21px;
+	height: 18px;
+}
+
+i.currencyLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -939px;
+	width: 21px;
+	height: 14px;
+}
+
+i.currencyLine1-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -959px;
+	width: 21px;
+	height: 20px;
+}
+
+i.clock24Line-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -986px;
+	width: 21px;
+	height: 20px;
+}
+
+i.barcodeLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1013px;
+	width: 21px;
+	height: 14px;
+}
+
+i.currencyLine2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1033px;
+	width: 21px;
+	height: 18px;
+}
+
+i.lockLine1-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1058px;
+	width: 21px;
+	height: 28px;
+}
+
+i.tvLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1094px;
+	width: 21px;
+	height: 18px;
+}
+
+i.powerLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1119px;
+	width: 21px;
+	height: 21px;
+}
+
+i.robotLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1148px;
+	width: 21px;
+	height: 24px;
+}
+
+i.eyeglassLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1179px;
+	width: 21px;
+	height: 21px;
+}
+
+i.trashLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1207px;
+	width: 21px;
+	height: 26px;
+}
+
+i.bitcoinLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1240px;
+	width: 21px;
+	height: 22px;
+}
+
+i.bitcoinLine2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1269px;
+	width: 21px;
+	height: 23px;
+}
+
+i.gamepadLine2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1299px;
+	width: 21px;
+	height: 19px;
+}
+
+i.cameraLine2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1325px;
+	width: 21px;
+	height: 17px;
+}
+
+i.ticketLine-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1349px;
+	width: 21px;
+	height: 12px;
+}
+
+i.casinoCards-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1368px;
+	width: 21px;
+	height: 20px;
+}
+
+i.chess-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1396px;
+	width: 21px;
+	height: 21px;
+}
+
+i.casinoChips-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1424px;
+	width: 21px;
+	height: 20px;
+}
+
+i.casinoDice-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1451px;
+	width: 21px;
+	height: 17px;
+}
+
+i.darts-sm,
+i.DARTS-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1475px;
+	width: 21px;
+	height: 20px;
+}
+
+i.tableTennis-sm,
+i.TABLETENNIS-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1502px;
+	width: 21px;
+	height: 21px;
+}
+
+i.snooker-sm,
+i.SNOOKER-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1529px;
+	width: 21px;
+	height: 20px;
+}
+
+i.backgammon-sm,
+i.BACKGAMMON-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1557px;
+	width: 21px;
+	height: 19px;
+}
+
+i.football-sm,
+i.FOOTBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1582px;
+	width: 21px;
+	height: 22px;
+}
+
+i.basketball-sm,
+i.BASKETBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1611px;
+	width: 21px;
+	height: 21px;
+}
+
+i.baseball-sm,
+i.BASEBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1638px;
+	width: 21px;
+	height: 22px;
+}
+
+i.hockey-sm,
+i.HOCKEY-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1668px;
+	width: 21px;
+	height: 21px;
+}
+
+i.tennis-sm,
+i.TENNIS-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1697px;
+	width: 21px;
+	height: 21px;
+}
+
+i.volleyball-sm,
+i.VOLLEYBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1726px;
+	width: 21px;
+	height: 21px;
+}
+
+i.soccer-sm,
+i.SOCCER-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1754px;
+	width: 21px;
+	height: 21px;
+}
+
+i.badminton-sm,
+i.BADMINTON-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1782px;
+	width: 21px;
+	height: 22px;
+}
+
+i.bowling-sm,
+i.BOWLING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1811px;
+	width: 21px;
+	height: 21px;
+}
+
+i.cricket-sm,
+i.CRICKET-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1839px;
+	width: 21px;
+	height: 21px;
+}
+
+i.curling-sm,
+i.CURLING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1867px;
+	width: 21px;
+	height: 20px;
+}
+
+i.golf-sm,
+i.GOLF-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1895px;
+	width: 21px;
+	height: 21px;
+}
+
+i.eightball-sm,
+i.EIGHTBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1923px;
+	width: 21px;
+	height: 21px;
+}
+
+i.pasapalo-sm,
+i.PASAPALO-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1951px;
+	width: 21px;
+	height: 21px;
+}
+
+i.cronometer-sm,
+i.CRONOMETER-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -1980px;
+	width: 21px;
+	height: 24px;
+}
+
+i.roulette-sm,
+i.ROULETTE-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2012px;
+	width: 21px;
+	height: 21px;
+}
+
+i.casinoCards2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2039px;
+	width: 21px;
+	height: 18px;
+}
+
+i.cardsTable-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2064px;
+	width: 21px;
+	height: 12px;
+}
+
+i.slots-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2083px;
+	width: 21px;
+	height: 16px;
+}
+
+i.money-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2106px;
+	width: 21px;
+	height: 10px;
+}
+
+i.liveDearler-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -2123px;
+	width: 19px;
+	height: 26px;
+}
+
+i.horses-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2156px;
+	width: 21px;
+	height: 16px;
+}
+
+i.gamepad-sm,
+i.sportssims-sm,
+i.SPORTSSIMS-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2179px;
+	width: 21px;
+	height: 15px;
+}
+
+i.gamepad2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2201px;
+	width: 21px;
+	height: 15px;
+}
+
+i.nextHour-sm,
+i.liveBetting-sm,
+i.inhouselivebetting-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2223px;
+	width: 21px;
+	height: 20px;
+}
+
+i.archery-sm,
+i.ARCHERY-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -2250px;
+	width: 19px;
+	height: 25px;
+}
+
+i.aussierules-sm,
+i.AUSSIERULES-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2282px;
+	width: 21px;
+	height: 20px;
+}
+
+i.bandy-sm,
+i.BANDY-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2309px;
+	width: 21px;
+	height: 21px;
+}
+
+i.waterpolo-sm,
+i.WATERPOLO-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2337px;
+	width: 21px;
+	height: 22px;
+}
+
+i.boxing-sm,
+i.BOXING-sm,
+i.fighting-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2506px;
+	width: 21px;
+	height: 24px;
+}
+
+i.chess2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2536px;
+	width: 21px;
+	height: 16px;
+}
+
+i.cricket2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2559px;
+	width: 21px;
+	height: 21px;
+}
+
+i.cyclism-sm,
+i.CYCLISM-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2615px;
+	width: 21px;
+	height: 13px;
+}
+
+i.darts2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2635px;
+	width: 21px;
+	height: 21px;
+}
+
+i.diving,
+i.DIVING {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2663px;
+	width: 21px;
+	height: 20px;
+}
+
+i.esport-sm,
+i.ESPORTS-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2691px;
+	width: 21px;
+	height: 21px;
+}
+
+i.horses2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -2720px;
+	width: 20px;
+	height: 19px;
+}
+
+i.star-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2746px;
+	width: 21px;
+	height: 21px;
+}
+
+i.fencing-sm,
+i.FENCING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2774px;
+	width: 21px;
+	height: 14px;
+}
+
+i.floorball-sm,
+i.FLOORBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2795px;
+	width: 21px;
+	height: 21px;
+}
+
+i.football2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2823px;
+	width: 21px;
+	height: 20px;
+}
+
+i.futsal-sm,
+i.FUTSAL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2851px;
+	width: 21px;
+	height: 12px;
+}
+
+i.gaelichurling-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2870px;
+	width: 21px;
+	height: 21px;
+}
+
+i.golf2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2898px;
+	width: 21px;
+	height: 21px;
+}
+
+i.handball-sm,
+i.HANDBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2926px;
+	width: 21px;
+	height: 21px;
+}
+
+i.horseracing-sm,
+i.HORSERACING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -2954px;
+	width: 21px;
+	height: 14px;
+}
+
+i.hurling-sm,
+i.HURLING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -2974px;
+	width: 19px;
+	height: 25px;
+}
+
+i.judo-sm,
+i.JUDO-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3006px;
+	width: 21px;
+	height: 19px;
+}
+
+i.kayak-sm,
+i.KAYAK-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3031px;
+	width: 21px;
+	height: 20px;
+}
+
+i.mma-sm,
+i.MMA-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3058px;
+	width: 21px;
+	height: 27px;
+}
+
+i.motorracing-sm,
+i.MOTORRACING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3092px;
+	width: 21px;
+	height: 20px;
+}
+
+i.netball-sm,
+i.NETBALL-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3119px;
+	width: 21px;
+	height: 21px;
+}
+
+i.olympic-sm,
+i.OLYMPIC-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -3143px;
+	width: 19px;
+	height: 29px;
+}
+
+i.trophy-sm,
+i.TROPHY-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -3px -3179px;
+	width: 18px;
+	height: 21px;
+}
+
+i.pesapallo-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3207px;
+	width: 21px;
+	height: 21px;
+}
+
+i.casinoSpade-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -3235px;
+	width: 19px;
+	height: 23px;
+}
+
+i.rowing-sm,
+i.ROWING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3265px;
+	width: 21px;
+	height: 10px;
+}
+
+i.rugby-league,
+i.RUGBY,
+i.RUGBY-LEAGUE {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3282px;
+	width: 21px;
+	height: 15px;
+}
+
+i.rugby-union-sm,
+i.RUGBYUNION-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3303px;
+	width: 21px;
+	height: 15px;
+}
+
+i.sailing-sm,
+i.SAILING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3325px;
+	width: 21px;
+	height: 22px;
+}
+
+i.snooker2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3354px;
+	width: 21px;
+	height: 15px;
+}
+
+i.soccer2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3376px;
+	width: 21px;
+	height: 22px;
+}
+
+i.special-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3405px;
+	width: 21px;
+	height: 20px;
+}
+
+i.motocross-sm,
+i.MOTOCROSS-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3432px;
+	width: 21px;
+	height: 20px;
+}
+
+i.triathlon-sm,
+i.TRIATHLON-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3515px;
+	width: 21px;
+	height: 21px;
+}
+
+i.waterpolo-sm,
+i.WATERPOLO-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3571px;
+	width: 21px;
+	height: 21px;
+}
+
+i.weightlifting-sm,
+i.WEIGHTLIFTING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3598px;
+	width: 21px;
+	height: 21px;
+}
+
+i.wintersports-sm,
+i.WINTERSPORTS-sm,
+i.WINTEROLYMPICS-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3626px;
+	width: 21px;
+	height: 20px;
+}
+
+i.wrestling-sm,
+i.WRESTLING-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3653px;
+	width: 21px;
+	height: 23px;
+}
+
+i.lacrosse-sm,
+i.LACROSSE-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3682px;
+	width: 21px;
+	height: 18px;
+}
+
+i.nylotto-sm,
+i.NYLOTTO-sm,
+i.lottery-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3707px;
+	width: 21px;
+	height: 24px;
+}
+
+i.ticket-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3738px;
+	width: 21px;
+	height: 14px;
+}
+
+i.tv-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3759px;
+	width: 21px;
+	height: 25px;
+}
+
+i.entertainment-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -3789px;
+	width: 20px;
+	height: 32px;
+}
+
+i.horseRacing2-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -2px -3855px;
+	width: 19px;
+	height: 14px;
+}
+
+i.live-on-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3878px;
+	width: 22px;
+	height: 10px;
+}
+
+i.live-off-sm {
+	background: url('../img/website-icons-sm.png') no-repeat -1px -3897px;
+	width: 22px;
+	height: 10px;
+}
+
+/* Dark Icons*/
+
+i.liveDearlerLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -5px;
+	width: 24px;
+	height: 32px;
+}
+
+i.casinoLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -48px;
+	width: 27px;
+	height: 28px;
+}
+
+i.raffleLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -86px;
+	width: 26px;
+	height: 25px;
+}
+
+i.rouletteLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -122px;
+	width: 26px;
+	height: 27px;
+}
+
+.casinoChipsLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -198px;
+	width: 27px;
+	height: 27px;
+}
+
+i.casinoSpadeLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -235px;
+	width: 26px;
+	height: 27px;
+}
+
+i.casinoSlotsLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -272px;
+	width: 26px;
+	height: 16px;
+}
+
+i.casinoChipsLine2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -298px;
+	width: 27px;
+	height: 27px;
+}
+
+i.gamepadLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -334px;
+	width: 27px;
+	height: 20px;
+}
+
+i.cameraLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -364px;
+	width: 26px;
+	height: 20px;
+}
+
+i.headsetLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -394px;
+	width: 26px;
+	height: 24px;
+}
+
+i.barScannerLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -428px;
+	width: 26px;
+	height: 29px;
+}
+
+i.hotLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -466px;
+	width: 27px;
+	height: 29px;
+}
+
+i.lighningLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -466px;
+	width: 27px;
+	height: 29px;
+}
+
+i.radioactiveline-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -549px;
+	width: 27px;
+	height: 27px;
+}
+
+i.weatherLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -585px;
+	width: 27px;
+	height: 19px;
+}
+
+i.wifiLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -613px;
+	width: 27px;
+	height: 17px;
+}
+
+i.mobileLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -5px -640px;
+	width: 21px;
+	height: 35px;
+}
+
+i.satelliteLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -684px;
+	width: 27px;
+	height: 27px;
+}
+
+i.chatLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -721px;
+	width: 27px;
+	height: 25px;
+}
+
+i.cogsLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -755px;
+	width: 24px;
+	height: 24px;
+}
+
+i.newsLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -790px;
+	width: 23px;
+	height: 28px;
+}
+
+i.wifiLine2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -827px;
+	width: 28px;
+	height: 27px;
+}
+
+i.checkLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -863px;
+	width: 28px;
+	height: 27px;
+}
+
+i.closeLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -900px;
+	width: 28px;
+	height: 27px;
+}
+
+i.specialLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -937px;
+	width: 28px;
+	height: 27px;
+}
+
+i.clockLine1-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -974px;
+	width: 28px;
+	height: 27px;
+}
+
+i.wifiLine3-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1011px;
+	width: 27px;
+	height: 21px;
+}
+
+i.calcLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -1041px;
+	width: 23px;
+	height: 29px;
+}
+
+i.ccLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1080px;
+	width: 27px;
+	height: 19px;
+}
+
+i.clockLine2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1108px;
+	width: 28px;
+	height: 27px;
+}
+
+i.walletLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1144px;
+	width: 27px;
+	height: 21px;
+}
+
+i.safeLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1174px;
+	width: 26px;
+	height: 23px;
+}
+
+i.currencyLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1174px;
+	width: 26px;
+	height: 23px;
+}
+
+i.currencyLine1-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1232px;
+	width: 28px;
+	height: 24px;
+}
+
+i.clock24Line-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1265px;
+	width: 26px;
+	height: 26px;
+}
+
+i.barcodeLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1265px;
+	width: 26px;
+	height: 26px;
+}
+
+i.currencyLine2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1265px;
+	width: 26px;
+	height: 26px;
+}
+
+i.lockLine1-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1359px;
+	width: 27px;
+	height: 35px;
+}
+
+i.tvLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1404px;
+	width: 26px;
+	height: 24px;
+}
+
+i.powerLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1437px;
+	width: 26px;
+	height: 27px;
+}
+
+i.robotLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1474px;
+	width: 27px;
+	height: 30px;
+}
+
+i.eyeglassLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1513px;
+	width: 26px;
+	height: 27px;
+}
+
+i.trashLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1549px;
+	width: 27px;
+	height: 34px;
+}
+
+i.bitcoinLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1592px;
+	width: 27px;
+	height: 27px;
+}
+
+i.bitcoinLine2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1629px;
+	width: 26px;
+	height: 29px;
+}
+
+i.gamepadLine2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1668px;
+	width: 27px;
+	height: 24px;
+}
+
+i.cameraLine2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1701px;
+	width: 27px;
+	height: 21px;
+}
+
+i.ticketLine-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1732px;
+	width: 26px;
+	height: 15px;
+}
+
+i.casinoCards-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1756px;
+	width: 26px;
+	height: 26px;
+}
+
+i.chess-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1792px;
+	width: 26px;
+	height: 27px;
+}
+
+i.casinoChips-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -1828px;
+	width: 27px;
+	height: 25px;
+}
+
+i.casinoDice-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1863px;
+	width: 26px;
+	height: 22px;
+}
+
+i.darts-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1894px;
+	width: 26px;
+	height: 25px;
+}
+
+i.tableTennis-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1928px;
+	width: 27px;
+	height: 26px;
+}
+
+i.snooker-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1963px;
+	width: 27px;
+	height: 26px;
+}
+
+i.backgammon-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -1999px;
+	width: 26px;
+	height: 23px;
+}
+
+i.football-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2032px;
+	width: 27px;
+	height: 26px;
+}
+
+i.basketball-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2068px;
+	width: 26px;
+	height: 27px;
+}
+
+i.baseball-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2104px;
+	width: 26px;
+	height: 26px;
+}
+
+i.hockey-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2142px;
+	width: 28px;
+	height: 27px;
+}
+
+i.tennis-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2179px;
+	width: 27px;
+	height: 27px;
+}
+
+i.volleyball-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2216px;
+	width: 26px;
+	height: 26px;
+}
+
+i.soccer-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2252px;
+	width: 26px;
+	height: 27px;
+}
+
+i.badminton-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2288px;
+	width: 27px;
+	height: 28px;
+}
+
+i.bowling-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2325px;
+	width: 26px;
+	height: 27px;
+}
+
+i.cricket-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2361px;
+	width: 27px;
+	height: 27px;
+}
+
+i.curling-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2397px;
+	width: 27px;
+	height: 26px;
+}
+
+i.golf-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2433px;
+	width: 27px;
+	height: 27px;
+}
+
+i.eightball-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2469px;
+	width: 26px;
+	height: 27px;
+}
+
+i.pasapalo-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2505px;
+	width: 27px;
+	height: 27px;
+}
+
+i.cronometer-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2542px;
+	width: 26px;
+	height: 31px;
+}
+
+i.roulette-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2583px;
+	width: 27px;
+	height: 26px;
+}
+
+i.casinoCards2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2618px;
+	width: 26px;
+	height: 23px;
+}
+
+i.cardsTable-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2650px;
+	width: 28px;
+	height: 15px;
+}
+
+i.slots-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2675px;
+	width: 26px;
+	height: 19px;
+}
+
+i.money-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2704px;
+	width: 26px;
+	height: 12px;
+}
+
+i.liveDearler-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -2726px;
+	width: 23px;
+	height: 32px;
+}
+
+i.horses-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2768px;
+	width: 26px;
+	height: 21px;
+}
+
+i.gamepad-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2797px;
+	width: 26px;
+	height: 19px;
+}
+
+i.gamepad2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -2826px;
+	width: 28px;
+	height: 19px;
+}
+
+i.nextHour-dark,
+i.liveBetting-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2855px;
+	width: 26px;
+	height: 24px;
+}
+
+i.archery-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -2888px;
+	width: 24px;
+	height: 32px;
+}
+
+i.aussierules-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -2930px;
+	width: 27px;
+	height: 25px;
+}
+
+i.bandy-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3000px;
+	width: 28px;
+	height: 28px;
+}
+
+i.waterpolo-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3145px;
+	width: 27px;
+	height: 26px;
+}
+
+i.boxing-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3218px;
+	width: 26px;
+	height: 30px;
+}
+
+i.chess2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3257px;
+	width: 26px;
+	height: 19px;
+}
+
+i.cricket2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3286px;
+	width: 27px;
+	height: 27px;
+}
+
+i.cyclism-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3358px;
+	width: 26px;
+	height: 16px;
+}
+
+i.darts2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3383px;
+	width: 26px;
+	height: 27px;
+}
+
+i.diving-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3419px;
+	width: 27px;
+	height: 26px;
+}
+
+i.esport-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3455px;
+	width: 27px;
+	height: 27px;
+}
+
+i.horses2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -3493px;
+	width: 25px;
+	height: 24px;
+}
+
+i.star-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3526px;
+	width: 27px;
+	height: 26px;
+}
+
+i.fencing-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3562px;
+	width: 26px;
+	height: 17px;
+}
+
+i.floorball-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3589px;
+	width: 27px;
+	height: 26px;
+}
+
+i.football2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3625px;
+	width: 26px;
+	height: 26px;
+}
+
+i.futsal-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3661px;
+	width: 26px;
+	height: 15px;
+}
+
+i.gaelic-hurling-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3685px;
+	width: 26px;
+	height: 26px;
+}
+
+i.golf2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3721px;
+	width: 27px;
+	height: 27px;
+}
+
+i.handball-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3757px;
+	width: 27px;
+	height: 27px;
+}
+
+i.horseracing-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3793px;
+	width: 27px;
+	height: 17px;
+}
+
+i.hurling-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3818px;
+	width: 24px;
+	height: 32px;
+}
+
+i.judo-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3860px;
+	width: 26px;
+	height: 23px;
+}
+
+i.kayak-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -3892px;
+	width: 26px;
+	height: 26px;
+}
+
+i.mma-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3926px;
+	width: 27px;
+	height: 34px;
+}
+
+i.motorracing-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -3970px;
+	width: 28px;
+	height: 25px;
+}
+
+i.netball-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -4005px;
+	width: 27px;
+	height: 26px;
+}
+
+i.olympic-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -4036px;
+	width: 23px;
+	height: 36px;
+}
+
+i.trophy-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -5px -4082px;
+	width: 22px;
+	height: 27px;
+}
+
+i.pesapallo-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -4118px;
+	width: 27px;
+	height: 27px;
+}
+
+i.casinoSpade-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -4px -4154px;
+	width: 24px;
+	height: 28px;
+}
+
+i.rowing-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4192px;
+	width: 26px;
+	height: 13px;
+}
+
+i.rugby-league-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4214px;
+	width: 26px;
+	height: 19px;
+}
+
+i.rugby-union-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -4241px;
+	width: 27px;
+	height: 19px;
+}
+
+i.sailing-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4270px;
+	width: 26px;
+	height: 27px;
+}
+
+i.snooker2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4307px;
+	width: 27px;
+	height: 19px;
+}
+
+i.soccer2-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -4335px;
+	width: 27px;
+	height: 27px;
+}
+
+i.special-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -4372px;
+	width: 28px;
+	height: 26px;
+}
+
+i.motocross-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4407px;
+	width: 26px;
+	height: 25px;
+}
+
+i.triathlon-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -4513px;
+	width: 27px;
+	height: 26px;
+}
+
+i.waterpolo-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4585px;
+	width: 26px;
+	height: 27px;
+}
+
+i.weightlifting-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4621px;
+	width: 26px;
+	height: 26px;
+}
+
+i.wintersports-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -2px -4656px;
+	width: 28px;
+	height: 25px;
+}
+
+i.wrestling-dark {
+	background: url('../img/website-icons-dark.png') no-repeat -3px -4691px;
+	width: 26px;
+	height: 29px;
+}
+
+.iconSm {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+/*****************NFL Logos *****************/
+
+.logo-buffalobills {
+	background: url('../img/nfl-logos.png') no-repeat -1px -6px;
+	width: 25px;
+	height: 17px;
+}
+
+.logo-miamidolphins {
+	background: url('../img/nfl-logos.png') no-repeat -1px -31px;
+	width: 24px;
+	height: 19px;
+}
+
+.logo-newenglandpatriots {
+	background: url('../img/nfl-logos.png') no-repeat -1px -58px;
+	width: 25px;
+	height: 13px;
+}
+
+.logo-newyorkjets {
+	background: url('../img/nfl-logos.png') no-repeat -1px -79px;
+	width: 24px;
+	height: 15px;
+}
+
+.logo-dallascowboys {
+	background: url('../img/nfl-logos.png') no-repeat -1px -102px;
+	width: 25px;
+	height: 23px;
+}
+
+.logo-newyorkgiants {
+	background: url('../img/nfl-logos.png') no-repeat -1px -133px;
+	width: 25px;
+	height: 19px;
+}
+
+.logo-philadelphiaeagles {
+	background: url('../img/nfl-logos.png') no-repeat -2px -160px;
+	width: 24px;
+	height: 17px;
+}
+
+.logo-washington,
+.logo-washingtonfootballteam {
+	background: url('../img/nfl-logos.png') no-repeat -1px -185px;
+	width: 24px;
+	height: 13px;
+}
+
+.logo-baltimoreravens {
+	background: url('../img/nfl-logos.png') no-repeat -1px -206px;
+	width: 25px;
+	height: 13px;
+}
+
+.logo-cincinnatibengals {
+	background: url('../img/nfl-logos.png') no-repeat -1px -227px;
+	width: 25px;
+	height: 17px;
+}
+
+.logo-clevelandbrowns {
+	background: url('../img/nfl-logos.png') no-repeat -1px -252px;
+	width: 25px;
+	height: 19px;
+}
+
+.logo-pittsburghsteelers {
+	background: url('../img/nfl-logos.png') no-repeat -1px -279px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-chicagobears {
+	background: url('../img/nfl-logos.png') no-repeat -1px -312px;
+	width: 25px;
+	height: 17px;
+}
+
+.logo-detroitlions {
+	background: url('../img/nfl-logos.png') no-repeat -1px -337px;
+	width: 24px;
+	height: 19px;
+}
+
+.logo-greenbaypackers {
+	background: url('../img/nfl-logos.png') no-repeat -2px -364px;
+	width: 23px;
+	height: 15px;
+}
+
+.logo-minnesotavikings {
+	background: url('../img/nfl-logos.png') no-repeat -3px -387px;
+	width: 21px;
+	height: 25px;
+}
+
+.logo-houstontexans {
+	background: url('../img/nfl-logos.png') no-repeat -1px -420px;
+	width: 25px;
+	height: 23px;
+}
+
+.logo-indianapoliscolts {
+	background: url('../img/nfl-logos.png') no-repeat -1px -451px;
+	width: 24px;
+	height: 25px;
+}
+
+.logo-jacksonvillejaguars {
+	background: url('../img/nfl-logos.png') no-repeat -2px -484px;
+	width: 23px;
+	height: 17px;
+}
+
+.logo-tennesseetitans {
+	background: url('../img/nfl-logos.png') no-repeat -1px -509px;
+	width: 25px;
+	height: 18px;
+}
+
+.logo-atlantafalcons {
+	background: url('../img/nfl-logos.png') no-repeat -1px -535px;
+	width: 25px;
+	height: 23px;
+}
+
+.logo-carolinapanthers {
+	background: url('../img/nfl-logos.png') no-repeat -1px -566px;
+	width: 25px;
+	height: 13px;
+}
+
+.logo-neworleanssaints {
+	background: url('../img/nfl-logos.png') no-repeat -3px -587px;
+	width: 21px;
+	height: 25px;
+}
+
+.logo-tampabaybuccaneers {
+	background: url('../img/nfl-logos.png') no-repeat -1px -620px;
+	width: 24px;
+	height: 22px;
+}
+
+.logo-denverbroncos {
+	background: url('../img/nfl-logos.png') no-repeat -1px -650px;
+	width: 25px;
+	height: 15px;
+}
+
+.logo-kansascitychiefs {
+	background: url('../img/nfl-logos.png') no-repeat -1px -673px;
+	width: 25px;
+	height: 16px;
+}
+
+.logo-lasvegasraiders {
+	background: url('../img/nfl-logos.png') no-repeat -2px -697px;
+	width: 23px;
+	height: 25px;
+}
+
+.logo-losangeleschargers {
+	background: url('../img/nfl-logos.png') no-repeat -1px -730px;
+	width: 24px;
+	height: 11px;
+}
+
+.logo-arizonacardinals {
+	background: url('../img/nfl-logos.png') no-repeat -1px -749px;
+	width: 25px;
+	height: 23px;
+}
+
+.logo-losangelesrams {
+	background: url('../img/nfl-logos.png') no-repeat -1px -780px;
+	width: 24px;
+	height: 17px;
+}
+
+.logo-sanfrancisco49ers {
+	background: url('../img/nfl-logos.png') no-repeat -1px -805px;
+	width: 25px;
+	height: 15px;
+}
+
+.logo-seattleseahawks {
+	background: url('../img/nfl-logos.png') no-repeat -1px -828px;
+	width: 25px;
+	height: 11px;
+}
+
+/*****************NBA Logos *****************/
+
+.logo-bostonceltics {
+	background: url('../img/nba-logos.png') no-repeat -3px -2px;
+	width: 21px;
+	height: 24px;
+}
+
+.logo-brooklynnets {
+	background: url('../img/nba-logos.png') no-repeat -2px -34px;
+	width: 23px;
+	height: 23px;
+}
+
+.logo-newyorkknicks {
+	background: url('../img/nba-logos.png') no-repeat -2px -65px;
+	width: 24px;
+	height: 19px;
+}
+
+.logo-philadelphia76ers {
+	background: url('../img/nba-logos.png') no-repeat -3px -92px;
+	width: 20px;
+	height: 25px;
+}
+
+.logo-torontoraptors {
+	background: url('../img/nba-logos.png') no-repeat -1px -125px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-goldenstatewarriors {
+	background: url('../img/nba-logos.png') no-repeat -1px -157px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-losangelesclippers {
+	background: url('../img/nba-logos.png') no-repeat -1px -189px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-losangeleslakers {
+	background: url('../img/nba-logos.png') no-repeat -1px -221px;
+	width: 24px;
+	height: 15px;
+}
+
+.logo-phoenixsuns {
+	background: url('../img/nba-logos.png') no-repeat -1px -244px;
+	width: 24px;
+	height: 20px;
+}
+
+.logo-sacramentokings {
+	background: url('../img/nba-logos.png') no-repeat -3px -272px;
+	width: 21px;
+	height: 24px;
+}
+
+.logo-chicagobulls {
+	background: url('../img/nba-logos.png') no-repeat -1px -304px;
+	width: 24px;
+	height: 22px;
+}
+
+.logo-clevelandcavaliers {
+	background: url('../img/nba-logos.png') no-repeat -7px -334px;
+	width: 13px;
+	height: 25px;
+}
+
+.logo-detroitpistons {
+	background: url('../img/nba-logos.png') no-repeat -1px -367px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-indianapacers {
+	background: url('../img/nba-logos.png') no-repeat -1px -399px;
+	width: 24px;
+	height: 22px;
+}
+
+.logo-milwaukeebucks {
+	background: url('../img/nba-logos.png') no-repeat -4px -429px;
+	width: 18px;
+	height: 23px;
+}
+
+.logo-atlantahawks {
+	background: url('../img/nba-logos.png') no-repeat 0 -460px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-charlottehornets {
+	background: url('../img/nba-logos.png') no-repeat -1px -493px;
+	width: 24px;
+	height: 23px;
+}
+
+.logo-miamiheat {
+	background: url('../img/nba-logos.png') no-repeat -2px -524px;
+	width: 23px;
+	height: 23px;
+}
+
+.logo-orlandomagic {
+	background: url('../img/nba-logos.png') no-repeat -1px -555px;
+	width: 24px;
+	height: 13px;
+}
+
+.logo-washingtonwizards {
+	background: url('../img/nba-logos.png') no-repeat -1px -576px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-denvernuggets {
+	background: url('../img/nba-logos.png') no-repeat -1px -608px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-minnesotatimberwolves {
+	background: url('../img/nba-logos.png') no-repeat -1px -641px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-oklahomacitythunder {
+	background: url('../img/nba-logos.png') no-repeat -1px -673px;
+	width: 25px;
+	height: 14px;
+}
+
+.logo-portlandtrailblazers {
+	background: url('../img/nba-logos.png') no-repeat -2px -695px;
+	width: 22px;
+	height: 24px;
+}
+
+.logo-utahjazz {
+	background: url('../img/nba-logos.png') no-repeat -2px -727px;
+	width: 23px;
+	height: 15px;
+}
+
+.logo-dallasmavericks {
+	background: url('../img/nba-logos.png') no-repeat -2px -750px;
+	width: 23px;
+	height: 23px;
+}
+
+.logo-houstonrockets {
+	background: url('../img/nba-logos.png') no-repeat -4px -781px;
+	width: 18px;
+	height: 24px;
+}
+
+.logo-memphisgrizzlies {
+	background: url('../img/nba-logos.png') no-repeat -1px -813px;
+	width: 25px;
+	height: 23px;
+}
+
+.logo-neworleanspelicans {
+	background: url('../img/nba-logos.png') no-repeat -1px -844px;
+	width: 24px;
+	height: 10px;
+}
+
+.logo-sanantoniospurs {
+	background: url('../img/nba-logos.png') no-repeat -3px -862px;
+	width: 20px;
+	height: 24px;
+}
+
+/*****************MLB Logos *****************/
+
+.logo-diamondbacks,
+.logo-arizonadiamondbacks {
+	background: url('../img/mlb-logos.png') no-repeat -1px -5px;
+	width: 25px;
+	height: 19px;
+}
+
+.logo-atlantabraves {
+	background: url('../img/mlb-logos.png') no-repeat -1px -32px;
+	width: 25px;
+	height: 10px;
+}
+
+.logo-baltimoreorioles {
+	background: url('../img/mlb-logos.png') no-repeat -1px -50px;
+	width: 25px;
+	height: 23px;
+}
+
+.logo-bostonredsox {
+	background: url('../img/mlb-logos.png') no-repeat -1px -81px;
+	width: 25px;
+	height: 24px;
+}
+
+.logo-chicagocubs {
+	background: url('../img/mlb-logos.png') no-repeat -1px -113px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-chicagowhitesox {
+	background: url('../img/mlb-logos.png') no-repeat -4px -146px;
+	width: 18px;
+	height: 25px;
+}
+
+.logo-cincinnatireds {
+	background: url('../img/mlb-logos.png') no-repeat -1px -179px;
+	width: 25px;
+	height: 17px;
+}
+
+.logo-clevelandindians {
+	background: url('../img/mlb-logos.png') no-repeat -4px -204px;
+	width: 18px;
+	height: 25px;
+}
+
+.logo-coloradorockies {
+	background: url('../img/mlb-logos.png') no-repeat -1px -237px;
+	width: 25px;
+	height: 18px;
+}
+
+.logo-detroittigers {
+	background: url('../img/mlb-logos.png') no-repeat -5px -263px;
+	width: 17px;
+	height: 24px;
+}
+
+.logo-houstonastros {
+	background: url('../img/mlb-logos.png') no-repeat -1px -295px;
+	width: 24px;
+	height: 23px;
+}
+
+.logo-kansascityroyals {
+	background: url('../img/mlb-logos.png') no-repeat -2px -326px;
+	width: 23px;
+	height: 25px;
+}
+
+.logo-losangelesangels {
+	background: url('../img/mlb-logos.png') no-repeat -4px -359px;
+	width: 19px;
+	height: 25px;
+}
+
+.logo-losangelesdodgers {
+	background: url('../img/mlb-logos.png') no-repeat -1px -392px;
+	width: 24px;
+	height: 25px;
+}
+
+.logo-miamimarlins {
+	background: url('../img/mlb-logos.png') no-repeat -2px -425px;
+	width: 23px;
+	height: 24px;
+}
+
+.logo-milwaukeebrewers {
+	background: url('../img/mlb-logos.png') no-repeat -1px -457px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-minnesotatwins {
+	background: url('../img/mlb-logos.png') no-repeat -1px -489px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-newyorkmets {
+	background: url('../img/mlb-logos.png') no-repeat -1px -522px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-newyorkyankees {
+	background: url('../img/mlb-logos.png') no-repeat -2px -555px;
+	width: 23px;
+	height: 25px;
+}
+
+.logo-oaklandathletics {
+	background: url('../img/mlb-logos.png') no-repeat -1px -588px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-philadelphiaphillies {
+	background: url('../img/mlb-logos.png') no-repeat -1px -621px;
+	width: 24px;
+	height: 21px;
+}
+
+.logo-pittsburghpirates {
+	background: url('../img/mlb-logos.png') no-repeat -5px -650px;
+	width: 17px;
+	height: 24px;
+}
+
+.logo-sandiegopadres {
+	background: url('../img/mlb-logos.png') no-repeat -4px -682px;
+	width: 19px;
+	height: 24px;
+}
+
+.logo-sanfranciscogiants {
+	background: url('../img/mlb-logos.png') no-repeat -1px -714px;
+	width: 25px;
+	height: 13px;
+}
+
+.logo-seattlemariners {
+	background: url('../img/mlb-logos.png') no-repeat -1px -735px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-stlouiscardinals,
+.logo-saintlouiscardinals {
+	background: url('../img/mlb-logos.png') no-repeat -1px -768px;
+	width: 25px;
+	height: 24px;
+}
+
+.logo-tampabayrays {
+	background: url('../img/mlb-logos.png') no-repeat -1px -800px;
+	width: 24px;
+	height: 12px;
+}
+
+.logo-texasrangers {
+	background: url('../img/mlb-logos.png') no-repeat -1px -820px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-torontobluejays {
+	background: url('../img/mlb-logos.png') no-repeat -1px -853px;
+	width: 24px;
+	height: 21px;
+}
+
+.logo-washingtonnationals {
+	background: url('../img/mlb-logos.png') no-repeat -1px -882px;
+	width: 25px;
+	height: 25px;
+}
+
+/*****************NHL Logos *****************/
+
+.logo-carolinahurricanes {
+	background: url('../img/nhl-logos.png') no-repeat -1px -7px;
+	width: 25px;
+	height: 15px;
+}
+
+.logo-chicagoblackhawks {
+	background: url('../img/nhl-logos.png') no-repeat -1px -30px;
+	width: 25px;
+	height: 22px;
+}
+
+.logo-columbusbluejackets {
+	background: url('../img/nhl-logos.png') no-repeat -1px -60px;
+	width: 25px;
+	height: 21px;
+}
+
+.logo-dallasstars {
+	background: url('../img/nhl-logos.png') no-repeat -1px -89px;
+	width: 24px;
+	height: 20px;
+}
+
+.logo-detroitredwings {
+	background: url('../img/nhl-logos.png') no-repeat -1px -117px;
+	width: 25px;
+	height: 19px;
+}
+
+.logo-floridapanthers {
+	background: url('../img/nhl-logos.png') no-repeat -3px -144px;
+	width: 21px;
+	height: 24px;
+}
+
+.logo-nashvillepredators {
+	background: url('../img/nhl-logos.png') no-repeat -1px -176px;
+	width: 25px;
+	height: 15px;
+}
+
+.logo-tampabaylightning {
+	background: url('../img/nhl-logos.png') no-repeat -1px -199px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-calgaryflames {
+	background: url('../img/nhl-logos.png') no-repeat -1px -232px;
+	width: 24px;
+	height: 21px;
+}
+
+.logo-edmontonoilers {
+	background: url('../img/nhl-logos.png') no-repeat -1px -261px;
+	width: 24px;
+	height: 24px;
+}
+
+.logo-montrealcanadiens {
+	background: url('../img/nhl-logos.png') no-repeat -1px -293px;
+	width: 25px;
+	height: 17px;
+}
+
+.logo-ottawasenators {
+	background: url('../img/nhl-logos.png') no-repeat -1px -318px;
+	width: 24px;
+	height: 19px;
+}
+
+.logo-torontomapleleafs {
+	background: url('../img/nhl-logos.png') no-repeat -3px -345px;
+	width: 21px;
+	height: 24px;
+}
+
+.logo-vancouvercanucks {
+	background: url('../img/nhl-logos.png') no-repeat -1px -377px;
+	width: 25px;
+	height: 23px;
+}
+
+.logo-winnipegjets {
+	background: url('../img/nhl-logos.png') no-repeat -1px -408px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-bostonbruins {
+	background: url('../img/nhl-logos.png') no-repeat -1px -441px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-buffalosabres {
+	background: url('../img/nhl-logos.png') no-repeat -2px -474px;
+	width: 23px;
+	height: 23px;
+}
+
+.logo-newjerseydevils {
+	background: url('../img/nhl-logos.png') no-repeat -1px -505px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-newyorkislanders {
+	background: url('../img/nhl-logos.png') no-repeat -1px -538px;
+	width: 25px;
+	height: 24px;
+}
+
+.logo-newyorkrangers {
+	background: url('../img/nhl-logos.png') no-repeat 0 -570px;
+	width: 25px;
+	height: 24px;
+}
+
+.logo-philadelphiaflyers {
+	background: url('../img/nhl-logos.png') no-repeat -1px -602px;
+	width: 25px;
+	height: 17px;
+}
+
+.logo-pittsburghpenguins {
+	background: url('../img/nhl-logos.png') no-repeat -1px -627px;
+	width: 24px;
+	height: 23px;
+}
+
+.logo-washingtoncapitals {
+	background: url('../img/nhl-logos.png') no-repeat -1px -658px;
+	width: 25px;
+	height: 16px;
+}
+
+.logo-anaheimducks {
+	background: url('../img/nhl-logos.png') no-repeat -1px -682px;
+	width: 25px;
+	height: 14px;
+}
+
+.logo-arizonacoyotes {
+	background: url('../img/nhl-logos.png') no-repeat -1px -704px;
+	width: 25px;
+	height: 25px;
+}
+
+.logo-coloradoavalanche {
+	background: url('../img/nhl-logos.png') no-repeat -1px -737px;
+	width: 25px;
+	height: 21px;
+}
+
+.logo-losangeleskings {
+	background: url('../img/nhl-logos.png') no-repeat -3px -766px;
+	width: 20px;
+	height: 24px;
+}
+
+.logo-minnesotawild {
+	background: url('../img/nhl-logos.png') no-repeat -1px -798px;
+	width: 25px;
+	height: 15px;
+}
+
+.logo-sanjosesharks {
+	background: url('../img/nhl-logos.png') no-repeat -1px -821px;
+	width: 25px;
+	height: 21px;
+}
+
+.logo-stlouisblues {
+	background: url('../img/nhl-logos.png') no-repeat -1px -850px;
+	width: 25px;
+	height: 20px;
+}
+
+.logo-vegasgoldenknights {
+	background: url('../img/nhl-logos.png') no-repeat -4px -878px;
+	width: 18px;
+	height: 24px;
+}
+
+/*********** LOGOS NCAA ***********/
+
+/* ASUN */
+.logo-bellarmineKnights {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -4px;
+    width: 26px;
+    height: 36px;
+}
+
+.logo-centralarkansasbears {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -46px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-easternkentuckycolonels {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -78px;
+    width: 26px;
+    height: 8px;
+}
+
+.logo-floridagulfcoasteagles {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -97px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-jacksonvilledolphins {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -127px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-jacksonvillestategamecocks {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -157px;
+    width: 26px;
+    height: 12px;
+}
+
+.logo-kennesawstateowls {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -181px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-libertyflames {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -219px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-lipscombbisons {
+    background: url("../img/ncaa/asun.png") no-repeat -7px -261px;
+    width: 12px;
+    height: 15px;
+}
+
+.logo-northalabamalions {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -294px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-northfloridaospreys {
+    background: url("../img/ncaa/asun.png") no-repeat 0 -329px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-stetsonhatters {
+    background: url("../img/ncaa/asun.png") no-repeat -3px -361px;
+    width: 21px;
+    height: 22px;
+}
+
+/* AMERICAN EAST */
+.logo-albanygreatdanes {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 0;
+    width: 26px;
+    height: 49px;
+}
+
+.logo-binghamtonbearcats {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -60px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-hartfordhawks {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -89px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-maineblackbears {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -128px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-njithighlanders {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -164px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-newhampshirewildcats {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -200px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-stonybrookseawolves {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -231px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-umbcretrievers {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -265px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-umasslowellriverhawks {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -301px;
+    width: 26px;
+    height: 12px;
+}
+
+.logo-vermontcatamounts {
+    background: url("../img/ncaa/american-east.png") no-repeat 0 -326px;
+    width: 26px;
+    height: 25px;
+}
+
+/* AMERICAN */
+
+.logo-cincinnatibearcats {
+    background: url("../img/ncaa/american.png") no-repeat 0 -8px;
+    width: 26px;
+    height: 41px;
+}
+
+.logo-eastcarolinapirates {
+    background: url("../img/ncaa/american.png") no-repeat 0 -63px;
+    width: 26px;
+    height: 28px;
+}
+
+.logo-houston,
+.logo-houstoncougars {
+    background: url("../img/ncaa/american.png") no-repeat 0 -105px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-memphistigers {
+    background: url("../img/ncaa/american.png") no-repeat 0 -148px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-smumustangs {
+    background: url("../img/ncaa/american.png") no-repeat 0 -188px;
+    width: 26px;
+    height: 13px;
+}
+
+.logo-southfloridabulls {
+    background: url("../img/ncaa/american.png") no-repeat 0 -217px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-templeowls {
+    background: url("../img/ncaa/american.png") no-repeat -2px -254px;
+    width: 22px;
+    height: 25px;
+}
+
+.logo-tulanegreenwave {
+    background: url("../img/ncaa/american.png") no-repeat -2px -297px;
+    width: 24px;
+    height: 19px;
+}
+
+.logo-tulsagoldenhurricane {
+    background: url("../img/ncaa/american.png") no-repeat 0 -340px;
+    width: 26px;
+    height: 10px;
+}
+
+.logo-ufcknights {
+    background: url("../img/ncaa/american.png") no-repeat 0 -372px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-wichitastateshockers {
+    background: url("../img/ncaa/american.png") no-repeat 0 -408px;
+    width: 26px;
+    height: 22px;
+}
+
+/* ATLANTIC 10 */
+
+.logo-davidsonwildcats {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -9px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-daytonflyers {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -51px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-duquesnedukes {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -80px;
+    width: 26px;
+    height: 54px;
+}
+
+.logo-fordhamrams {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -147px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-georgemasonpatriots {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -189px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-georgewashingtoncolonials {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -230px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-lasalleexplorers {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat -1px -261px;
+    width: 24px;
+    height: 23px;
+}
+
+.logo-rhodeislandrams {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -307px;
+    width: 26px;
+    height: 33px;
+}
+
+.logo-richmondspiders {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat -3px -354px;
+    width: 21px;
+    height: 27px;
+}
+
+.logo-saintjosephshawks {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -401px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-saintlouisbillikens {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -437px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-stbonaventurebonnies,
+.logo-stbonaventure {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -477px;
+    width: 26px;
+    height: 11px;
+}
+
+.logo-umassminutemen {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -507px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-vcurams {
+    background: url("../img/ncaa/atlantic-10.png") no-repeat 0 -547px;
+    width: 26px;
+    height: 11px;
+}
+
+/* ACC */
+
+.logo-bostoncollegeeagles {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -7px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-clemsontigers {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -44px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-duke,
+.logo-dukebluedevils {
+    background: url("../img/ncaa/acc.png") no-repeat -1px -82px;
+    width: 23px;
+    height: 20px;
+}
+
+.logo-floridastateseminoles {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -118px;
+    width: 26px;
+    height: 27px;
+}
+
+.logo-georgiatechyellowjackets {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -160px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-louisvillecardinals {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -187px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-miamiflorida,
+.logo-miamihurricanes {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -230px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-ncstatewolfpack {
+    background: url("../img/ncaa/acc.png") no-repeat -4px -263px;
+    width: 18px;
+    height: 24px;
+}
+
+.logo-northcarolina,
+.logo-northcarolinatarheels {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -302px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-notredamefightingirish {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -338px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-pittsburghpanthers {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -374px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-syracuseorange {
+    background: url("../img/ncaa/acc.png") no-repeat -4px -405px;
+    width: 18px;
+    height: 24px;
+}
+
+.logo-virginiacavaliers {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -445px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-virginiatechhokies {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -482px;
+    width: 26px;
+    height: 12px;
+}
+
+.logo-wakeforest,
+.logo-wakeforestdemondeacons {
+    background: url("../img/ncaa/acc.png") no-repeat 0 -512px;
+    width: 26px;
+    height: 18px;
+}
+
+/* BIG 12 */
+
+.logo-baylorbears {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -7px;
+    width: 26px;
+    height: 31px;
+}
+
+.logo-iowastate,
+.logo-iowastatecyclones {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -50px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-kansas,
+.logo-kansasjayhawks {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -84px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-kansasstatewildcats {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -126px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-oklahomasooners {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -156px;
+    width: 26px;
+    height: 34px;
+}
+
+.logo-oklahomastatecowboys {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -206px;
+    width: 26px;
+    height: 14px;
+}
+
+.logo-tcuhornedfrogs {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -234px;
+    width: 26px;
+    height: 13px;
+}
+
+.logo-texaslonghorns {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -259px;
+    width: 26px;
+    height: 13px;
+}
+
+.logo-texastech,
+.logo-texastechredraiders {
+    background: url("../img/ncaa/big-12.png") no-repeat 0 -286px;
+    width: 26px;
+    height: 30px;
+}
+
+.logo-westvirginiamountaineers {
+    background: url("../img/ncaa/big-12.png") no-repeat -1px -331px;
+    width: 20px;
+    height: 18px;
+}
+
+/* BIG EAST */
+
+.logo-butlerbulldogs {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -7px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-creightonbluejays {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -47px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-depaulbluedemons {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -89px;
+    width: 26px;
+    height: 27px;
+}
+
+.logo-georgetownhoyas {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -130px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-marquettegoldeneagles {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -171px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-providence,
+.logo-providencefriars {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -204px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-setonhallpirates {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -234px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-stjohnsredstorm {
+    background: url("../img/ncaa/big-east.png") no-repeat -1px -275px;
+    width: 24px;
+    height: 33px;
+}
+
+.logo-uconnhuskies {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -321px;
+    width: 26px;
+    height: 32px;
+}
+
+.logo-villanova,
+.logo-villanovawildcats {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -363px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-xaviermusketeers,
+.logo-xavier {
+    background: url("../img/ncaa/big-east.png") no-repeat 0 -404px;
+    width: 26px;
+    height: 21px;
+}
+
+/* BIG SKY */
+
+.logo-easternwashingtoneagles {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -7px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-idahostatebengals {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -43px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-idahovandals {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -79px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-montanagrizzlies {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -126px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-montanastatebobcats {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -160px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-northernarizonalumberjacks {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -192px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-northerncoloradobears {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -222px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-portlandstatevikings {
+    background: url("../img/ncaa/big-sky.png") no-repeat -1px -260px;
+    width: 24px;
+    height: 31px;
+}
+
+.logo-sacramentostatehornets {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -303px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-southernutahthunderbirds,
+.logo-southernutah {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -343px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-weberstatewildcats {
+    background: url("../img/ncaa/big-sky.png") no-repeat 0 -377px;
+    width: 26px;
+    height: 20px;
+}
+
+/* BIG SOUTH */
+
+.logo-campbellfightingcamels {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -8px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-charlestonsouthernbuccaneers {
+    background: url("../img/ncaa/big-south.png") no-repeat -2px -44px;
+    width: 22px;
+    height: 16px;
+}
+
+.logo-gardnerwebbrunninbulldogs {
+    background: url("../img/ncaa/big-south.png") no-repeat -1px -74px;
+    width: 24px;
+    height: 15px;
+}
+
+.logo-hamptonpirates {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -103px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-highpointpanthers {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -146px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-longwoodlancers {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -178px;
+    width: 26px;
+    height: 11px;
+}
+
+.logo-northcarolinaaggies {
+    background: url("../img/ncaa/big-south.png") no-repeat -1px -202px;
+    width: 24px;
+    height: 30px;
+}
+
+.logo-presbyterianbluehose {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -244px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-radfordhighlanders {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -288px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-southcarolinaupstatespartans {
+    background: url('imgs/big-south.png') no-repeat 0 -324px;
+	width: 26px;
+	height: 18px;
+}
+
+.logo-uncashevillebulldogs {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -358px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-winthropeagles {
+    background: url("../img/ncaa/big-south.png") no-repeat 0 -385px;
+    width: 26px;
+    height: 23px;
+}
+
+/* BIG TEN */
+
+.logo-illinoisfightingillini {
+    background: url("../img/ncaa/big-ten.png") no-repeat -3px -10px;
+    width: 20px;
+    height: 30px;
+}
+
+.logo-indianahoosiers {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -55px;
+    width: 26px;
+    height: 33px;
+}
+
+.logo-iowahawkeyes {
+    background: url("../img/ncaa/big-ten.png") no-repeat -2px -104px;
+    width: 22px;
+    height: 15px;
+}
+
+.logo-marylandterrapins {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -131px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-michiganstatespartans {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -177px;
+    width: 26px;
+    height: 30px;
+}
+
+.logo-michigan,
+.logo-michiganwolverines {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -224px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-minnesotagoldengophers {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -259px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-nebraskacornhuskers {
+    background: url("../img/ncaa/big-ten.png") no-repeat -1px -292px;
+    width: 25px;
+    height: 25px;
+}
+
+.logo-northwesternwildcats {
+    background: url("../img/ncaa/big-ten.png") no-repeat -3px -336px;
+    width: 20px;
+    height: 31px;
+}
+
+.logo-ohiostatebuckeyes {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -384px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-pennstatenittanylions {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -428px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-purdue,
+.logo-purdueboilermakers {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -462px;
+    width: 26px;
+    height: 14px;
+}
+
+.logo-rutgersscarletknights {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -489px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-wisconsinbadgers {
+    background: url("../img/ncaa/big-ten.png") no-repeat 0 -528px;
+    width: 26px;
+    height: 25px;
+}
+
+/* BIG WEST */
+
+.logo-csubakersfieldroadrunners {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -6px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-csufullertontitans {
+    background: url("../img/ncaa/big-west.png") no-repeat -5px -38px;
+    width: 16px;
+    height: 24px;
+}
+
+.logo-csunorthridgematadors {
+    background: url("../img/ncaa/big-west.png") no-repeat -4px -78px;
+    width: 18px;
+    height: 21px;
+}
+
+.logo-calpolymustangs {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -114px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-hawaiirainbowwarriors {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -158px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-longbeachstatebeach {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -193px;
+    width: 26px;
+    height: 32px;
+}
+
+.logo-ucdavisaggies {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -238px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-ucirvineanteaters {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -272px;
+    width: 26px;
+    height: 28px;
+}
+
+.logo-ucriversidehighlanders {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -315px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-ucsandiegotritons {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -356px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-ucsantabarbaragauchos {
+    background: url("../img/ncaa/big-west.png") no-repeat 0 -399px;
+    width: 26px;
+    height: 18px;
+}
+
+/* COLONIAL */
+.logo-charlestoncougars {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -11px;
+    width: 26px;
+    height: 30px;
+}
+
+.logo-delawarebluehens {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -59px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-drexeldragons {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -96px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-elonphoenix {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -130px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-hofstrapride {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -163px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-jamesmadisondukes {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -197px;
+    width: 26px;
+    height: 9px;
+}
+
+.logo-northeasternhuskies {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -226px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-towsontigers {
+    background: url("../img/ncaa/colonial.png") no-repeat 0 -266px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-ncwilmington,
+.logo-uncwilmingtonseahawks {
+    background: url("../img/ncaa/colonial.png") no-repeat -1px -301px;
+    width: 24px;
+    height: 24px;
+}
+
+.logo-williammarytribe {
+    background: url("../img/ncaa/colonial.png") no-repeat -2px -342px;
+    width: 22px;
+    height: 18px;
+}
+
+/* CONFERENCE USA */
+.logo-charlotte49ers {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -12px;
+    width: 26px;
+    height: 33px;
+}
+
+.logo-floridaatlanticowls {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -62px;
+    width: 26px;
+    height: 34px;
+}
+
+.logo-floridainternationalpanthers {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -114px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-louisianatechbulldogs {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -150px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-marshallthunderingherd {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -183px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-middletennst,
+.logo-middletennesseeblueraiders {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -217px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-northtexasmeangreen {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -249px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-olddominionmonarchs {
+    background: url("../img/ncaa/conference-usa.png") no-repeat -1px -293px;
+    width: 24px;
+    height: 20px;
+}
+
+.logo-riceowls {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -329px;
+    width: 25px;
+    height: 30px;
+}
+
+.logo-southernmissgoldeneagles {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -377px;
+    width: 26px;
+    height: 14px;
+}
+
+.logo-uabblazers {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -405px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-utepminers {
+    background: url("../img/ncaa/conference-usa.png") no-repeat -1px -443px;
+    width: 24px;
+    height: 18px;
+}
+
+.logo-utsaroadrunners {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -476px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-westernkentuckyhilltoppers {
+    background: url("../img/ncaa/conference-usa.png") no-repeat 0 -517px;
+    width: 26px;
+    height: 19px;
+}
+
+/* HORIZON */
+.logo-clevelandstatevikings {
+    background: url("../img/ncaa/horizon.png") no-repeat -4px -12px;
+    width: 19px;
+    height: 19px;
+}
+
+.logo-detroitmercytitans {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -45px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-greenbayphoenix {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -80px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-iupuijaguars {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -117px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-milwaukeepanthers {
+    background: url("../img/ncaa/horizon.png") no-repeat -2px -154px;
+    width: 23px;
+    height: 13px;
+}
+
+.logo-northernkentuckynorse {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -185px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-oaklandgoldengrizzlies {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -219px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-purduefortwaynemastodons {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -256px;
+    width: 26px;
+    height: 31px;
+}
+
+.logo-robertmorriscolonials {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -302px;
+    width: 26px;
+    height: 12px;
+}
+
+.logo-uicflames {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -330px;
+    width: 26px;
+    height: 10px;
+}
+
+.logo-wrightstateraiders {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -357px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-youngstownstate,
+.logo-youngstownstatepenguins {
+    background: url("../img/ncaa/horizon.png") no-repeat 0 -394px;
+    width: 26px;
+    height: 16px;
+}
+
+/* IVY */
+.logo-brownbears {
+    background: url("../img/ncaa/ivy.png") no-repeat -2px -8px;
+    width: 23px;
+    height: 21px;
+}
+
+.logo-columbialions {
+    background: url("../img/ncaa/ivy.png") no-repeat 0 -46px;
+    width: 26px;
+    height: 30px;
+}
+
+.logo-cornellbigred {
+    background: url("../img/ncaa/ivy.png") no-repeat 0 -93px;
+    width: 26px;
+    height: 27px;
+}
+
+.logo-dartmouthbiggreen {
+    background: url("../img/ncaa/ivy.png") no-repeat -1px -139px;
+    width: 24px;
+    height: 30px;
+}
+
+.logo-harvardcrimson {
+    background: url("../img/ncaa/ivy.png") no-repeat -4px -190px;
+    width: 20px;
+    height: 24px;
+}
+
+.logo-pennsylvaniaquakers {
+    background: url("../img/ncaa/ivy.png") no-repeat 0 -227px;
+    width: 26px;
+    height: 32px;
+}
+
+.logo-princetontigers {
+    background: url("../img/ncaa/ivy.png") no-repeat -3px -278px;
+    width: 21px;
+    height: 24px;
+}
+
+.logo-yalebulldogs {
+    background: url("../img/ncaa/ivy.png") no-repeat 0 -323px;
+    width: 26px;
+    height: 25px;
+}
+
+/* MAAC */
+.logo-canisiusgoldengriffins {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -10px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-fairfieldstags {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -54px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-ionagaels {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -97px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-manhattanjaspers {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -138px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-maristredfoxes {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -179px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-monmouthhawks {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -218px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-niagarapurpleeagles {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -256px;
+    width: 26px;
+    height: 11px;
+}
+
+.logo-quinnipiacbobcats {
+    background: url("../img/ncaa/maac.png") no-repeat -2px -280px;
+    width: 22px;
+    height: 24px;
+}
+
+.logo-riderbroncs {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -322px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-stpeters,
+.logo-saintpeterspeacocks {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -353px;
+    width: 26px;
+    height: 34px;
+}
+
+.logo-sienasaints {
+    background: url("../img/ncaa/maac.png") no-repeat 0 -404px;
+    width: 26px;
+    height: 14px;
+}
+
+/* MID AMERICAN */
+.logo-akronzips {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -10px;
+    width: 26px;
+    height: 14px;
+}
+
+.logo-ballstatecardinals {
+    background: url("../img/ncaa/mid-american.png") no-repeat -3px -39px;
+    width: 21px;
+    height: 29px;
+}
+
+.logo-bowlinggreenfalcons {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -82px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-buffalobulls {
+    background: url("../img/ncaa/mid-american.png") no-repeat -1px -120px;
+    width: 24px;
+    height: 24px;
+}
+
+.logo-centralmichiganchippewas {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -159px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-easternmichiganeagles {
+    background: url("../img/ncaa/mid-american.png") no-repeat -3px -196px;
+    width: 21px;
+    height: 23px;
+}
+
+.logo-kentstategoldenflashes {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -236px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-miamiredhawks {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -270px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-northernillinoishuskies {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -307px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-ohiobobcats {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -346px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-toledorockets {
+    background: url("../img/ncaa/mid-american.png") no-repeat 0 -384px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-westernmichiganbroncos {
+    background: url("../img/ncaa/mid-american.png") no-repeat -1px -414px;
+    width: 25px;
+    height: 25px;
+}
+
+/* MEAC */
+.logo-coppinstateeagles {
+    background: url("../img/ncaa/meac.png") no-repeat 0 -6px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-delawarestatehornets {
+    background: url("../img/ncaa/meac.png") no-repeat 0 -35px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-howardbison {
+    background: url("../img/ncaa/meac.png") no-repeat 0 -70px;
+    width: 26px;
+    height: 34px;
+}
+
+.logo-maryland-easternshorehawks {
+    background: url("../img/ncaa/meac.png") no-repeat 0 -122px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-morganstatebears {
+    background: url("../img/ncaa/meac.png") no-repeat 0 -167px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-norfolkstatespartans {
+    background: url("../img/ncaa/meac.png") no-repeat -1px -209px;
+    width: 23px;
+    height: 24px;
+}
+
+.logo-northcarolinacentraleagles {
+    background: url("../img/ncaa/meac.png") no-repeat 0 -259px;
+    width: 25px;
+    height: 13px;
+}
+
+.logo-southcarolinastatebulldogs {
+    background: url("../img/ncaa/meac.png") no-repeat 0 -290px;
+    width: 26px;
+    height: 32px;
+}
+
+/* MISSOURI VALLEY */
+.logo-bradleybraves {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -5px;
+    width: 26px;
+    height: 31px;
+}
+
+.logo-drakebulldogs {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -50px;
+    width: 26px;
+    height: 28px;
+}
+
+.logo-evansvillepurpleaces {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -96px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-illinoisstateredbirds {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -135px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-indianastatesycamores {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -168px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-loyolachicagoramblers {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -209px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-missouristatebears {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -251px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-northerniowapanthers {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -293px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-southernillinoissalukis {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat 0 -329px;
+    width: 26px;
+    height: 14px;
+}
+
+.logo-valparaisobeacons {
+    background: url("../img/ncaa/missoury-valley.png") no-repeat -1px -361px;
+    width: 24px;
+    height: 23px;
+}
+
+/* MOUNTAIN WEST */
+.logo-airforcefalcons {
+    background: url("../img/ncaa/mountain-west.png") no-repeat -1px -10px;
+    width: 24px;
+    height: 24px;
+}
+
+.logo-boisestatebroncos {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -51px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-coloradostaterams {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -90px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-fresnostate,
+.logo-fresnostatebulldogs {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -134px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-nevadawolfpack {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -170px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-newmexicolobos {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -207px;
+    width: 26px;
+    height: 32px;
+}
+
+.logo-sandiegostateaztecs {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -258px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-sanjoséstatespartans {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -294px;
+    width: 26px;
+    height: 28px;
+}
+
+.logo-unlvrebels {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -339px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-utahstateaggies {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -376px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-wyomingcowboys {
+    background: url("../img/ncaa/mountain-west.png") no-repeat 0 -415px;
+    width: 26px;
+    height: 45px;
+}
+
+/* NORTHEAST */
+.logo-bryantbulldogs {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -11px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-centralconnecticutbluedevils {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -48px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-fairleighdickinsonknights {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -92px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-longislanduniversitysharks {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -137px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-merrimackwarriors {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -174px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-mountstmarysmountaineers {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -213px;
+    width: 26px;
+    height: 14px;
+}
+
+.logo-sacredheartpioneers {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -244px;
+    width: 26px;
+    height: 10px;
+}
+
+.logo-stfrancisterriers {
+    background: url("../img/ncaa/northeast.png") no-repeat -1px -274px;
+    width: 24px;
+    height: 26px;
+}
+
+.logo-stfrancisredflash {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -318px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-wagnerseahawks {
+    background: url("../img/ncaa/northeast.png") no-repeat 0 -354px;
+    width: 25px;
+    height: 15px;
+}
+
+/* OHIO VALLEY */
+.logo-austinpeaygovernors {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -6px;
+    width: 26px;
+    height: 35px;
+}
+
+.logo-belmontbruins {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -59px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-easternillinoispanthers {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -103px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-moreheadstateeagles {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -150px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-murraystateracers {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -198px;
+    width: 26px;
+    height: 27px;
+}
+
+.logo-siuedwardsvillecougars {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -254px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-southeastmissouristateredhawks {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -290px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-tennesseestatetigers {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -326px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-tennesseetechgoldeneagles {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -372px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-utmartinskyhawks {
+    background: url("../img/ncaa/ohio-valley.png") no-repeat 0 -413px;
+    width: 26px;
+    height: 21px;
+}
+
+/* PAC-12 */
+.logo-arizonastatesundevils {
+    background: url("../img/ncaa/pac-12.png") no-repeat -3px -9px;
+    width: 20px;
+    height: 39px;
+}
+
+.logo-arizona,
+.logo-arizonawildcats {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -62px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-californiagoldenbears {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -106px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-coloradobuffaloes {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -147px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-oregonducks {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -190px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-oregonstatebeavers {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -233px;
+    width: 26px;
+    height: 14px;
+}
+
+.logo-stanfordcardinal {
+    background: url("../img/ncaa/pac-12.png") no-repeat -4px -269px;
+    width: 18px;
+    height: 28px;
+}
+
+.logo-ucla,
+.logo-uclabruins {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -312px;
+    width: 26px;
+    height: 13px;
+}
+
+.logo-usctrojans {
+    background: url("../img/ncaa/pac-12.png") no-repeat -3px -345px;
+    width: 20px;
+    height: 31px;
+}
+
+.logo-utahutes {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -396px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-washingtonhuskies {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -439px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-washingtonstate,
+.logo-washingtonstatecougars {
+    background: url("../img/ncaa/pac-12.png") no-repeat 0 -475px;
+    width: 26px;
+    height: 25px;
+}
+
+/* PATRIOT LEAGUE */
+.logo-americanuniversityeagles {
+    background: url("../img/ncaa/patriot-league.png") no-repeat 0 -14px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-armyblackknights {
+    background: url("../img/ncaa/patriot-league.png") no-repeat 0 -63px;
+    width: 26px;
+    height: 30px;
+}
+
+.logo-bostonuniversityterriers {
+    background: url("../img/ncaa/patriot-league.png") no-repeat -1px -115px;
+    width: 25px;
+    height: 23px;
+}
+
+.logo-bucknellbison {
+    background: url("../img/ncaa/patriot-league.png") no-repeat 0 -161px;
+    width: 26px;
+    height: 19px;
+}
+
+.logo-colgateraiders {
+    background: url("../img/ncaa/patriot-league.png") no-repeat 0 -203px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-holycrosscrusaders {
+    background: url("../img/ncaa/patriot-league.png") no-repeat -1px -249px;
+    width: 24px;
+    height: 29px;
+}
+
+.logo-lafayetteleopards {
+    background: url("../img/ncaa/patriot-league.png") no-repeat 0 -298px;
+    width: 26px;
+    height: 24px;
+}
+
+.logo-lehighmountainhawks {
+    background: url("../img/ncaa/patriot-league.png") no-repeat 0 -342px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-loyolagreyhounds {
+    background: url("../img/ncaa/patriot-league.png") no-repeat -1px -396px;
+    width: 24px;
+    height: 31px;
+}
+
+.logo-navymidshipmen {
+    background: url("../img/ncaa/patriot-league.png") no-repeat -1px -448px;
+    width: 25px;
+    height: 32px;
+}
+
+/* SEC */
+.logo-alabamacrimsontide {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -10px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-arkansas,
+.logo-arkansasrazorbacks {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -52px;
+    width: 26px;
+    height: 11px;
+}
+
+.logo-auburntigers {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -83px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-floridagators {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -124px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-georgiabulldogs {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -157px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-kentuckywildcats {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -196px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-lsutigers {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -240px;
+    width: 26px;
+    height: 9px;
+}
+
+.logo-mississippistatebulldogs {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -274px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-missouritigers {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -314px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-olemissrebels {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -354px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-southcarolinagamecocks {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -400px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-tennesseevolunteers {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -457px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-texasam,
+.logo-texasamaggies {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -508px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-vanderbiltcommodores {
+    background: url("../img/ncaa/sec.png") no-repeat 0 -553px;
+    width: 26px;
+    height: 25px;
+}
+
+/* SOUTHERN */
+.logo-chattanoogamocs {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -12px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-easttennesseestatebuccaneers {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -56px;
+    width: 26px;
+    height: 26px;
+}
+
+.logo-furmanpaladins {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -99px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-mercerbears {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -145px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-samfordbulldogs {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -190px;
+    width: 23px;
+    height: 24px;
+}
+
+.logo-thecitadelbulldogs {
+    background: url("../img/ncaa/southern.png") no-repeat -1px -235px;
+    width: 24px;
+    height: 21px;
+}
+
+.logo-uncgreensborospartans {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -278px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-vmikeydets {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -323px;
+    width: 26px;
+    height: 28px;
+}
+
+.logo-westerncarolinacatamounts {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -375px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-woffordterriers {
+    background: url("../img/ncaa/southern.png") no-repeat 0 -422px;
+    width: 26px;
+    height: 29px;
+}
+
+/* SOUTHLAND */
+.logo-houstonbaptisthuskies {
+    background: url("../img/ncaa/southland.png") no-repeat 0 -13px;
+    width: 26px;
+    height: 27px;
+}
+
+.logo-incarnatewordcardinals {
+    background: url("../img/ncaa/southland.png") no-repeat 0 -60px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-mcneesecowboys {
+    background: url("../img/ncaa/southland.png") no-repeat 0 -92px;
+    width: 26px;
+    height: 28px;
+}
+
+.logo-neworleansprivateers {
+    background: url("../img/ncaa/southland.png") no-repeat 0 -139px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-nichollscolonels {
+    background: url("../img/ncaa/southland.png") no-repeat 0 -183px;
+    width: 26px;
+    height: 13px;
+}
+
+.logo-northwesternstatedemons {
+    background: url("../img/ncaa/southland.png") no-repeat -4px -216px;
+    width: 18px;
+    height: 32px;
+}
+
+.logo-selouisianalions {
+    background: url("../img/ncaa/southland.png") no-repeat -1px -271px;
+    width: 23px;
+    height: 13px;
+}
+
+.logo-texasam-ccislanders {
+    background: url("../img/ncaa/southland.png") no-repeat -7px -304px;
+    width: 13px;
+    height: 26px;
+}
+
+/* SWAC */
+.logo-alabamaambulldogs {
+    background: url("../img/ncaa/swac.png") no-repeat -2px -12px;
+    width: 22px;
+    height: 26px;
+}
+
+.logo-alabamastatehornets {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -59px;
+    width: 26px;
+    height: 12px;
+}
+
+.logo-alcornstatebraves {
+    background: url("../img/ncaa/swac.png") no-repeat -1px -92px;
+    width: 24px;
+    height: 22px;
+}
+
+.logo-arkansas-pinebluffgoldenlions {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -134px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-bethune-cookmanwildcats {
+    background: url("../img/ncaa/swac.png") no-repeat -1px -170px;
+    width: 24px;
+    height: 25px;
+}
+
+.logo-floridaamrattlers {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -212px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-gramblingtigers {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -250px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-jacksonstatetigers {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -285px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-mississippivalleystatedeltadevils {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -322px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-prairieviewampanthers {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -366px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-southernjaguars {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -402px;
+    width: 26px;
+    height: 16px;
+}
+
+.logo-texassoutherntigers {
+    background: url("../img/ncaa/swac.png") no-repeat 0 -439px;
+    width: 26px;
+    height: 25px;
+}
+
+/* SUMMIT LEAGUE */
+.logo-denverpioneers {
+    background: url("../img/ncaa/summit-league.png") no-repeat -3px -10px;
+    width: 20px;
+    height: 18px;
+}
+
+.logo-kansascityroos {
+    background: url("../img/ncaa/summit-league.png") no-repeat -1px -43px;
+    width: 24px;
+    height: 23px;
+}
+
+.logo-northdakotafightinghawks {
+    background: url("../img/ncaa/summit-league.png") no-repeat 0 -83px;
+    width: 26px;
+    height: 12px;
+}
+
+.logo-northdakotastatebison {
+    background: url("../img/ncaa/summit-league.png") no-repeat 0 -112px;
+    width: 26px;
+    height: 13px;
+}
+
+.logo-omahamavericks {
+    background: url("../img/ncaa/summit-league.png") no-repeat -3px -140px;
+    width: 20px;
+    height: 20px;
+}
+
+.logo-oralrobertsgoldeneagles {
+    background: url("../img/ncaa/summit-league.png") no-repeat 0 -175px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-southdakotacoyotes {
+    background: url("../img/ncaa/summit-league.png") no-repeat -2px -211px;
+    width: 22px;
+    height: 28px;
+}
+
+.logo-southdakotastatejackrabbits {
+    background: url("../img/ncaa/summit-league.png") no-repeat 0 -260px;
+    width: 26px;
+    height: 20px;
+}
+
+.logo-stthomas-minnesotatommies {
+    background: url("../img/ncaa/summit-league.png") no-repeat -2px -300px;
+    width: 22px;
+    height: 24px;
+}
+
+.logo-westernillinoisleathernecks {
+    background: url("../img/ncaa/summit-league.png") no-repeat 0 -348px;
+    width: 26px;
+    height: 25px;
+}
+
+/* SUN BELT */
+.logo-appalachianstatemountaineers {
+    background: url("../img/ncaa/sun-belt.png") no-repeat -1px -10px;
+    width: 24px;
+    height: 27px;
+}
+
+.logo-arkansasstateredwolves {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -56px;
+    width: 26px;
+    height: 28px;
+}
+
+.logo-coastalcarolinachanticleers,
+.logo-coastalcarolina {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -101px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-georgiasoutherneagles {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -150px;
+    width: 26px;
+    height: 15px;
+}
+
+.logo-georgiastatepanthers {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -183px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-littlerocktrojans {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -227px;
+    width: 26px;
+    height: 29px;
+}
+
+.logo-louisianaragincajuns {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -273px;
+    width: 26px;
+    height: 13px;
+}
+
+.logo-southalabamajaguars,
+.logo-southalabama {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -306px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-texasstatebobcats {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -347px;
+    width: 26px;
+    height: 30px;
+}
+
+.logo-troytrojans {
+    background: url("../img/ncaa/sun-belt.png") no-repeat -1px -396px;
+    width: 24px;
+    height: 27px;
+}
+
+.logo-ulmonroewarhawks {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -442px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-utarlingtonmavericks {
+    background: url("../img/ncaa/sun-belt.png") no-repeat 0 -480px;
+    width: 26px;
+    height: 20px;
+}
+
+/* WEST COAST */
+.logo-byu,
+.logo-byucougars {
+    background: url("../img/ncaa/west-coast.png") no-repeat 0 -9px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-gonzaga,
+.logo-gonzagabulldogs {
+    background: url("../img/ncaa/west-coast.png") no-repeat 0 -46px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-loyolamarymountlions {
+    background: url("../img/ncaa/west-coast.png") no-repeat 0 -82px;
+    width: 26px;
+    height: 12px;
+}
+
+.logo-pacifictigers {
+    background: url("../img/ncaa/west-coast.png") no-repeat 0 -113px;
+    width: 26px;
+    height: 18px;
+}
+
+.logo-pepperdinewaves {
+    background: url("../img/ncaa/west-coast.png") no-repeat -2px -148px;
+    width: 22px;
+    height: 24px;
+}
+
+.logo-portlandpilots {
+    background: url("../img/ncaa/west-coast.png") no-repeat 0 -186px;
+    width: 25px;
+    height: 23px;
+}
+
+.logo-saintmarysgaels {
+    background: url("../img/ncaa/west-coast.png") no-repeat 0 -226px;
+    width: 26px;
+    height: 17px;
+}
+
+.logo-sandiegotoreros {
+    background: url("../img/ncaa/west-coast.png") no-repeat -2px -264px;
+    width: 22px;
+    height: 21px;
+}
+
+.logo-sanfranciscodons {
+    background: url("../img/ncaa/west-coast.png") no-repeat -3px -309px;
+    width: 20px;
+    height: 18px;
+}
+
+.logo-santaclarabroncos {
+    background: url("../img/ncaa/west-coast.png") no-repeat -3px -347px;
+    width: 21px;
+    height: 27px;
+}
+
+/* WAC */
+.logo-abilenechristianwildcats {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -11px;
+    width: 26px;
+    height: 22px;
+}
+
+.logo-californiabaptistlancers {
+    background: url("../img/ncaa/wac.png") no-repeat -2px -60px;
+    width: 22px;
+    height: 9px;
+}
+
+.logo-chicagostatecougars {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -94px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-dixiestatetrailblazers {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -138px;
+    width: 25px;
+    height: 18px;
+}
+
+.logo-grandcanyonantelopes {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -177px;
+    width: 26px;
+    height: 11px;
+}
+
+.logo-lamarcardinals {
+    background: url("../img/ncaa/wac.png") no-repeat -3px -210px;
+    width: 21px;
+    height: 20px;
+}
+
+.logo-newmexicostateaggies {
+    background: url("../img/ncaa/wac.png") no-repeat -3px -252px;
+    width: 20px;
+    height: 26px;
+}
+
+.logo-samhoustonbearkats {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -300px;
+    width: 26px;
+    height: 21px;
+}
+
+.logo-seattleuredhawks {
+    background: url("../img/ncaa/wac.png") no-repeat -3px -347px;
+    width: 20px;
+    height: 22px;
+}
+
+.logo-stephenfaustinlumberjacks {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -391px;
+    width: 26px;
+    height: 25px;
+}
+
+.logo-tarletontexans {
+    background: url("../img/ncaa/wac.png") no-repeat -1px -439px;
+    width: 24px;
+    height: 24px;
+}
+
+.logo-utriograndevalleyvaqueros {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -484px;
+    width: 26px;
+    height: 23px;
+}
+
+.logo-utahvalleywolverines {
+    background: url("../img/ncaa/wac.png") no-repeat 0 -528px;
+    width: 26px;
+    height: 19px;
+}

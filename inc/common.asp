@@ -122,11 +122,12 @@ function getGames ()
 		hTeam = recs("HomeTeam")
 		eventDT = recs("FixtureDateTime")
 		teams = split(eventName," - ")
-		response.write "<div class='event-sidebar mb-2' onclick='loadGame("&recs("FixtureID")&")'>"
-		response.write "<span class='events-title'>MLB</span>"
+		response.write "<li class='nav-sub-item' onclick='loadGame("&recs("FixtureID")&")'>"
+//		response.write "<div class='event-sidebar mb-2' onclick='loadGame("&recs("FixtureID")&")'>"
+		response.write "<span class='events-title'><i class='cIcons baseball'></i>League</span>"
 		response.write "<span class='participant'>"&vTeam&"</span>"
 		response.write "<span class='participant'>"&hTeam&"</span>"
-		response.write "<span class='info'>"&eventDT&"</span></span></div>"
+		response.write "<span class='info'>"&eventDT&"</span></span></li>"
 		recs.MoveNext
 	WEND
 	
